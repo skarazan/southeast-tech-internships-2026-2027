@@ -2107,8 +2107,37 @@
       "industry": "logistics",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "8332005862a3704f693c9dbeb9671cc4a30ec62cc698fc68f8c22e29d95e9e0a",
+      "company": "FedEx",
+      "company_slug": "fedex",
+      "role": "Intern - Information Technology",
+      "category": "other",
+      "locations": [
+        "Unknown"
+      ],
+      "apply_url": "https://careers.fedex.com/intern-information-technology/job/P25-322822-1",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-12",
+      "date_last_verified": "2026-03-14",
+      "source": "scrape",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "logistics",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-03-21T02:42:23.871083Z",
+  "last_updated": "2026-03-22T02:58:41.282907Z",
   "total_open": 0
 }
