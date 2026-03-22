@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: March 22, 2026 at 02:12 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: March 22, 2026 at 08:15 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 9 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 23 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 4 |
-| 🔹 [Other](#-other) | 210 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 30 |
+| 🔹 [Other](#-other) | 208 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 27 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 43 |
-| **Total** | **301** |
+| **Total** | **299** |
 
 ---
 
@@ -46,7 +46,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Hermeus** | Manufacturing Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
+| **Nasdaq** | Business Development Intern - 2026 Summer Internship | USA - Atlanta - Georgia | F26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Business-Development-Intern---2026-Summer-Internship_R0025506) | today |
 | **Impiricus** | Software Engineer Intern - Full Stack | Remote in USA, NYC, Atlanta and 1 more | F26 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5160382008?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Impiricus** | Intern - Data & Business Intelligence | NYC, Atlanta, GA and 1 more | F26 | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5160479008?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Nasdaq** | Product Owner Intern | Atlanta, GA | F26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Product-Owner-Intern---2026-Summer-Intern_R0025628?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -96,12 +96,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Optiver** | Quantitative Research Intern, PhD (Summer 2026) | Austin, Texas, United States | S26 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8055439002/?gh_jid=8055439002) | today |
-| 🔥 **NVIDIA** | PhD Research Intern, Autonomous Vehicles - 2026 | Singapore, Remote | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Vehicles---2026_JR2004703) | today |
-| 🔥 **Morgan Stanley** | Intern | Jacksonville FL 6375 | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Jacksonville-FL-6375/Intern_JR029473) | today |
-| 🔥 **Dropbox** | Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
-| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
-| 🔥 **Dropbox** | CX Video Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | spring_2028 | 🔒 Closed | today |
+| 🔥 **Dropbox** | Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Video Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | spring_2028 | 🔒 Closed | today |
 | 🔥 **Cloudflare** | IT Product Manager | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7740215?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **The Walt Disney Company** | Product Manager Intern | Seattle, WA, Orlando and 1 more | F26 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Seattle-WA-USA/Product-Manager-Intern--Summer-2026_10143688?utm_source=Simplify&ref=Simplify) | 2d ago |
 | 🔥 **The Walt Disney Company** | Talent Acquisition Marketing Account Management Intern, Summer 2026 | Orlando, FL, USA | S26 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Talent-Acquisition-Marketing-Account-Management-Intern--Summer-2026_10143549) | 3d ago |
@@ -271,14 +268,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Optiver** | Quantitative Research Intern, PhD (Summer 2026) | Austin, Texas, United States | S26 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8055439002/?gh_jid=8055439002) | today |
-| **Hermeus** | Manufacturing Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
-| 🔥 **NVIDIA** | PhD Research Intern, Autonomous Vehicles - 2026 | Singapore, Remote | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Vehicles---2026_JR2004703) | today |
-| 🔥 **Morgan Stanley** | Intern | Jacksonville FL 6375 | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Jacksonville-FL-6375/Intern_JR029473) | today |
-| **Bosch** | Technical Engineering Function (TEF) Summer Intern | Pineville, NC | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000114437037) | today |
-| 🔥 **Dropbox** | Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
-| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
-| 🔥 **Dropbox** | CX Video Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | spring_2028 | 🔒 Closed | today |
+| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
+| **Nasdaq** | Business Development Intern - 2026 Summer Internship | USA - Atlanta - Georgia | F26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Business-Development-Intern---2026-Summer-Internship_R0025506) | today |
+| **Bosch** | Technical Engineering Function (TEF) Intern | Pineville, NC | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000111689495) | today |
+| 🔥 **Dropbox** | Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Video Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | spring_2028 | 🔒 Closed | today |
 | **Revvity** | Full-Stack AI Developer Intern | Remote in Canada | F26 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-043680?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Cloudflare** | IT Product Manager | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7740215?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Leidos** | Cyber AI/ML Intern | Remote in USA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cyber-AI-ML-Intern-_R-00178756?utm_source=Simplify&ref=Simplify) | 1d ago |
