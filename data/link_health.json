@@ -68,7 +68,7 @@
     "last_checked": "2026-03-23"
   },
   "857b1aaca96d6dfb7e6aaa8cfd28e7935fda8ac38b01d36e4b51d3ae9b9655f5": {
-    "consecutive_failures": 46,
+    "consecutive_failures": 47,
     "last_checked": "2026-03-26"
   },
   "50813f116de414806760b336cf5dd41e2de49a7dfbedd10241f4d409c36e15bb": {
@@ -480,8 +480,8 @@
     "last_checked": "2026-03-06"
   },
   "58071accb44d0c176ee62119833fa481a9a659360abafb8b1f53f761b756f270": {
-    "consecutive_failures": 3,
-    "last_checked": "2026-03-17"
+    "consecutive_failures": 4,
+    "last_checked": "2026-03-26"
   },
   "aa03b06ec2fbd298860b99f6e124e541f293bb428b970c0e6d84b99a43bdbc07": {
     "consecutive_failures": 2,
@@ -1020,7 +1020,7 @@
     "last_checked": "2026-03-26"
   },
   "b80cebf511d00353ab420464db8ffc0d12e96b8701b9fb3e5d88543d53af48b9": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-03-26"
   },
   "cfa91c49a892cece4bfe33679ddd4f1b8a21e0a7f4475c87d28f1dd6602c5f24": {
@@ -1032,6 +1032,34 @@
     "last_checked": "2026-03-26"
   },
   "aaebc8169fd8edc7905cc16c6d4a4d9ca0166ae1e54253b2d06e1f406d8f7445": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-03-26"
+  },
+  "150e3b3ad5b0039df2310573ecc3ba9355874ac723363383cc02f9d102a8c07a": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "e4ce58613051a7dfe6fb520d7427cef3f0ed466438c8346c21292849936f70f7": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "557933afe6d726cdd7fed9c3c709929d7e87b92cfc3944fb5d1bb6fb14b0d635": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "55cefcc507640509d9157c79168fb367c04a247c0e21fb6b197aaafc599807fe": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "e537238d28ea4fabd7844431d572f1626bab9a6813e6b340bdd32464caf52032": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "bc196c4413aad9549d89697d0317892a908797915d576dbce3d403e64f382062": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-03-26"
+  },
+  "5f7170f1a8b6df041301cdd577e579f1175aac83c9b62562862441b12f451a45": {
     "consecutive_failures": 1,
     "last_checked": "2026-03-26"
   }
