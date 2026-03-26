@@ -3807,8 +3807,167 @@
       "industry": "fintech",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "8d114a5070383d300f126afaa0bed4ae3f737bae932178ec117957325f33bc54",
+      "company": "Cook Group",
+      "company_slug": "cook-group",
+      "role": "Engineering Intern",
+      "category": "other",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "apply_url": "https://americas-cookmedical.icims.com/jobs/18178/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-17",
+      "date_last_verified": "2026-03-18",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
+    },
+    {
+      "id": "f324d322d91ecac93d5d8772c95649c04584032fa284010ba09856aa2783f71c",
+      "company": "Instacart",
+      "company_slug": "instacart",
+      "role": "Machine Learning Engineer, PhD Intern",
+      "category": "ml_ai",
+      "locations": [
+        "United States - Remote"
+      ],
+      "apply_url": "https://instacart.careers/job/?gh_jid=5917202",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": true,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-18",
+      "date_last_verified": "2026-03-18",
+      "source": "greenhouse_api",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "ecommerce",
+      "preferred_class_years": [
+        "phd"
+      ],
+      "listing_type": "internship"
+    },
+    {
+      "id": "c0c69cc0ee116fce32a7338f644455b90407beb398d16dc250d98cf6858d62a5",
+      "company": "Instacart",
+      "company_slug": "instacart",
+      "role": "Machine Learning PhD Intern, Economics",
+      "category": "ml_ai",
+      "locations": [
+        "United States - Remote"
+      ],
+      "apply_url": "https://instacart.careers/job/?gh_jid=7532267",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": true,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-18",
+      "date_last_verified": "2026-03-18",
+      "source": "greenhouse_api",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "ecommerce",
+      "preferred_class_years": [
+        "phd"
+      ],
+      "listing_type": "internship"
+    },
+    {
+      "id": "d5c2500c6d8639a0254ea12afa3b18d0a296c36a5b42642f9785282615396f8c",
+      "company": "Dropbox",
+      "company_slug": "dropbox",
+      "role": "Research and Insights Intern (Summer 2026)",
+      "category": "other",
+      "locations": [
+        "Remote - Canada: Select locations"
+      ],
+      "apply_url": "https://jobs.dropbox.com/listing/7558572?gh_jid=7558572",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": true,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-18",
+      "date_last_verified": "2026-03-18",
+      "source": "greenhouse_api",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "summer_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [
+        "freshman",
+        "sophomore",
+        "junior",
+        "senior"
+      ],
+      "listing_type": "internship"
+    },
+    {
+      "id": "149cde09c66bc9e0f2cd86c822f6ba5e9757490f1187f6db7b0d408c6bf5b7b4",
+      "company": "Dropbox",
+      "company_slug": "dropbox",
+      "role": "Support Enablement Engineer Intern  (Summer 2026)",
+      "category": "other",
+      "locations": [
+        "Remote - US: All locations"
+      ],
+      "apply_url": "https://jobs.dropbox.com/listing/7531477?gh_jid=7531477",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": true,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-18",
+      "date_last_verified": "2026-03-18",
+      "source": "greenhouse_api",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "summer_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [
+        "freshman",
+        "sophomore",
+        "junior",
+        "senior"
+      ],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-03-25T02:56:25.548270Z",
+  "last_updated": "2026-03-26T03:03:49.097871Z",
   "total_open": 0
 }
