@@ -4419,8 +4419,37 @@
       "industry": "other",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "5b6f4c6b1d71ea9cf7351235292970a6d413b31068d6f100ef1f5acbfac8530c",
+      "company": "Posit PBC (formerly RStudio)",
+      "company_slug": "posit-pbc-(formerly-rstudio)",
+      "role": "Posit Intern",
+      "category": "swe",
+      "locations": [
+        "Remote in USA"
+      ],
+      "apply_url": "https://posit.co/job-detail/?gh_jid=7674250003&utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-21",
+      "date_last_verified": "2026-03-21",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-03-28T02:55:29.520864Z",
+  "last_updated": "2026-03-29T03:07:31.813340Z",
   "total_open": 0
 }
