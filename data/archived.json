@@ -4448,8 +4448,37 @@
       "industry": "other",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "a3306824858d0a3bc67f0abcd892dc4d8c6c3414d0befcc3c9995ef811840c4b",
+      "company": "FedEx",
+      "company_slug": "fedex",
+      "role": "M00I0: Intern-Professional",
+      "category": "other",
+      "locations": [
+        "Unknown"
+      ],
+      "apply_url": "https://careers.fedex.com/m00i0-intern-professional/job/5F6CC0802E24E009A4FC4D8E854A5FBD",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-19",
+      "date_last_verified": "2026-03-22",
+      "source": "scrape",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "logistics",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-03-29T03:07:31.813340Z",
+  "last_updated": "2026-03-30T03:10:34.428982Z",
   "total_open": 0
 }
