@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: March 31, 2026 at 02:39 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: March 31, 2026 at 09:01 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -17,13 +17,13 @@ Use this repo to discover and track **tech internships** across software enginee
 | Category | Open Roles |
 |----------|-----------|
 | 💻 [Software Engineering](#-software-engineering) | 80 |
-| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 16 |
+| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 17 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 31 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 5 |
-| 🔹 [Other](#-other) | 279 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 33 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 64 |
-| **Total** | **411** |
+| 🔹 [Other](#-other) | 276 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 31 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 63 |
+| **Total** | **409** |
 
 ---
 
@@ -48,7 +48,6 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Ideas United** | Web Development Intern | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/ideasunited/f4cd345c-e820-45ac-8ffe-deee7a89eece/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Solenis** | Undergraduate Intern | Georgia | F26 | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/United-States-of-America-Georgia-Remote/Undergraduate-Intern_R0028796?utm_source=Simplify&ref=Simplify) | today |
-| **Hermeus** | Manufacturing Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **KION Group** | AI Intern | Grand Rapids, MI, Plano and 3 more | F26 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Trimble** | Software Engineer Intern | Atlanta, GA | F26 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---Atlanta-GA/Software-Engineer-Intern_R52484?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **JP Morgan Chase** | Data Analytics/Business Intelligence/Process Automation Intern | SF, Dallas, TX and 5 more | F26 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730023?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -117,12 +116,10 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Optiver** | Quantitative Research Intern, PhD (Summer 2026) | Austin, Texas, United States | S26 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8055439002/?gh_jid=8055439002) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
-| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
 | 🔥 **Dropbox** | PhD Machine Learning Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
 | 🔥 **Dropbox** | Poland Software Engineering Intern (Summer 2026) 🔒 | Remote - Poland | spring_2026 | 🔒 Closed | today |
 | 🔥 **Dropbox** | Tax & Treasury Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
 | 🔥 **Anduril** | Global Defense Intern 🔒 | Washington, District of Columbia, United States | F26 | 🔒 Closed | 4d ago |
 | 🔥 **Twilio** | Analyst Relations Intern 🔒 | Remote - US | F26 | 🔒 Closed | 5d ago |
 | 🔥 **Twilio** | Technical Video Content Intern, Developer Ecosystem 🔒 | Remote - US | F26 | 🔒 Closed | 5d ago |
@@ -261,6 +258,7 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **SentinelOne** | AI/ML Engineer | Remote in USA | F26 | [Apply](https://www.sentinelone.com/jobs/7671593003?gh_jid=7671593003&utm_source=Simplify&ref=Simplify) | today |
 | **Cotiviti** | Intern – Data Scientist | Remote in USA | F26 | [Apply](https://careers-cotiviti.icims.com/jobs/18261/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
+| **Pindrop** | Research Scientist Intern - Multiple Teams | Remote in USA | F26 | [Apply](https://www.pindrop.com/careers/job-title/?gh_jid=7767791&utm_source=Simplify&ref=Simplify) | today |
 | 🔥 **Dropbox** | PhD Machine Learning Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
 | **Realtor.com** | Intern Data Scientist 🔒 | Austin, TX | F26 | 🔒 Closed | 1d ago |
 | **Norfolk Southern** | Machine Learning Engineer Intern | Atlanta, GA | F26 | [Apply](https://jobs.nscorp.com/job/Atlanta-Machine-Learning-Engineer-Intern-Summer-2026-GA-30308/1377010800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | 4d ago |
@@ -339,13 +337,10 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Ideas United** | Web Development Intern | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/ideasunited/f4cd345c-e820-45ac-8ffe-deee7a89eece/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Solenis** | Undergraduate Intern | Georgia | F26 | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/United-States-of-America-Georgia-Remote/Undergraduate-Intern_R0028796?utm_source=Simplify&ref=Simplify) | today |
-| 🔥 **Optiver** | Quantitative Research Intern, PhD (Summer 2026) | Austin, Texas, United States | S26 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/8055439002/?gh_jid=8055439002) | today |
-| **Hermeus** | Manufacturing Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
 | **Bosch** | Technical Engineering Function (TEF) Summer Intern | Pineville, NC | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000114437037) | today |
-| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
+| **Roadie** | UX Design Intern- Summer 2026 | REMOTE | S26 | [Apply](https://job-boards.greenhouse.io/roadie/jobs/8485879002) | today |
 | 🔥 **Dropbox** | Tax & Treasury Intern (Summer 2026) 🔒 | Remote - US: All locations | S26 | 🔒 Closed | today |
+| 🔥 **Dropbox** | CX Technical Content Design Intern (Summer 2026) 🔒 | Remote - Canada: Select locations | S26 | 🔒 Closed | today |
 | **KION Group** | AI Intern | Grand Rapids, MI, Plano and 3 more | F26 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **AssetMark** | Application Engineering Intern | Charlotte, NC | F26 | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Application-Engineering-Intern_Req-003660?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **QuidelOrtho** | Global Product Management Intern | Rochester, NY, Remote in USA | F26 | [Apply](https://orthoclinical.wd1.myworkdayjobs.com/Search/job/US---NY---Rochester/Global-Product-Management-Intern_R0016331?utm_source=Simplify&ref=Simplify) | 1d ago |
