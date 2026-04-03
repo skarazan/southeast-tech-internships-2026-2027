@@ -1592,15 +1592,15 @@
     "last_checked": "2026-04-03"
   },
   "d04e08346de011015cee4a5d1348406912967e1c679c983262ad3784e4b3993f": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-03"
   },
   "3671503d4424152d1aab64d2a151d17545e6b228328674fac66bc6e4bdda56d7": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-03"
   },
   "64ccc7381257fb5c5570a1be91cc586681ee2f0f878c933fa09c56230008f511": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-03"
   }
 }
