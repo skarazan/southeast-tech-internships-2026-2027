@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 03, 2026 at 09:53 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 04, 2026 at 02:15 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 93 |
+| 💻 [Software Engineering](#-software-engineering) | 92 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 18 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 44 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
 | 🔹 [Other](#-other) | 318 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 35 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 83 |
-| **Total** | **479** |
+| **Total** | **478** |
 
 ---
 
@@ -199,9 +199,9 @@ Use this repo to discover and track **tech internships** across software enginee
 | **SpecterOps** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://job-boards.greenhouse.io/specterops/jobs/8490047002?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **GEHA** | Full Stack Developer | Remote in USA | F26 | [Apply](https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Remote/Intern---Full-Stack-Developer_R-005245?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Hermeus** | Human Machine Interface (HMI) Software Engineering Intern  - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 3d ago |
-| **USAA** | Audit InternMar. 31, 2026Plano, TX | Plano, TX | F26 | [Apply](https://www.usaajobs.com/job/plano/audit-intern/1207/91064327792) | 3d ago |
 | **Bot Auto** | Intern Software Engineer - Data Infrastructure | Houston, TX | F26 | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5172257008?utm_source=Simplify&ref=Simplify) | 3d ago |
 | **Nucor** | UX / UI Designer – Full Stack Intern | Goodlettsville, TN | F26 | [Apply](https://jobs.nucor.com/job/Portland-UX-UI-Designer-Full-Stack-Intern-TN-37148/1378401000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | 3d ago |
+| **USAA** | Audit InternMar. 31, 2026Plano, TX 🔒 | Plano, TX | F26 | 🔒 Closed | 3d ago |
 | **Myriad Genetics** | Software Engineer Technology | Remote in USA | F26 | [Apply](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6020?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Myriad Genetics** | Software Engineer Architect – Technology Intern | Remote in USA | F26 | [Apply](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6018?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Revolution** | Full Stack Developer Intern | Dallas. TX | F26 | [Apply](https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job?utm_source=Simplify&ref=Simplify) | 4d ago |
