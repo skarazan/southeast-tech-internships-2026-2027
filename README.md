@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 04, 2026 at 02:15 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 04, 2026 at 08:21 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 18 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 44 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
-| 🔹 [Other](#-other) | 318 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 35 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 83 |
-| **Total** | **478** |
+| 🔹 [Other](#-other) | 323 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 36 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 84 |
+| **Total** | **483** |
 
 ---
 
@@ -48,6 +48,7 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Fiserv** | Military Pathways – Technology Intern Program | Alpharetta, GA | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Military-Pathways---Technology-Internship-Program_R-10391447?utm_source=Simplify&ref=Simplify) | today |
 | **Alcon** | Intern | Johns Creek, GA | F26 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johns-Creek-Georgia/Summer-2026-Intern_R-2026-46091?utm_source=Simplify&ref=Simplify) | today |
+| **Resmed** | Product Analyst Intern | Norcross, GA | F26 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Product-Analyst-Intern_JR_048630?utm_source=Simplify&ref=Simplify) | today |
 | **Hermeus** | Hardware Test Engineering Intern -  (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed) | 1d ago |
 | **Greenlight** | Product Manager Intern | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/greenlight/97ed5fd4-6156-4b0b-b009-0af7b83916d1/apply?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **The Hartford** | Intern Data - Multiple Teams | Columbus, OH | F26 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH-Worth-Ave/Intern---Data--Analytics--AI--and-Operations_R2624692?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -136,6 +137,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | 🔥 **Cloudflare** | Software Engineer Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7774167?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Cloudflare** | Automation Engineer Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7774224?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Samsara** | Account Development Representative Intern | Atlanta, Georgia, United States, Phoenix, Arizona, United States | F26 | [Apply](https://www.samsara.com/company/careers/roles/7295436?gh_jid=7295436) | 2d ago |
@@ -389,7 +391,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
 | **Actian** | Engineering Intern - Pipeline Observability and Lineage | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/dc54b4ff-b83c-48c8-9d9c-169d3d251ef6/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Actian** | Software Development Intern - Vector AI | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/0e93f417-524a-4137-a3be-5e74d9db75c7/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Actian** | Software Development Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/a6717e63-db81-4a37-86e2-5b5f3c41e735/apply?utm_source=Simplify&ref=Simplify) | today |
@@ -398,6 +399,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Actian** | PMO Automation Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/2f6fb30a-e3b1-412d-8c5c-3ef79be70ad9/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Alcon** | Intern | Johns Creek, GA | F26 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johns-Creek-Georgia/Summer-2026-Intern_R-2026-46091?utm_source=Simplify&ref=Simplify) | today |
 | **Amentum** | Intern | Cape Canaveral, FL | F26 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/XMLNAME-2026-Summer-Internship-Program_R0157823?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
+| **Blue Origin** | Summer 2026 Supply Chain Intern - Undergraduate | Huntsville, AL | S26 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Summer-2026-Business-Operations-Intern---Undergraduate_R55041) | today |
+| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
+| **SWBC** | Software Development Intern | San Antonio, TX | F26 | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Development-Intern_R0014488-2?utm_source=Simplify&ref=Simplify) | today |
+| **Resmed** | Product Analyst Intern | Norcross, GA | F26 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Product-Analyst-Intern_JR_048630?utm_source=Simplify&ref=Simplify) | today |
+| **Securitas** | Intern Data & Insights Analysis | Westlake Village, CA, Charlotte and 3 more | F26 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169186?utm_source=Simplify&ref=Simplify) | today |
 | **Hermeus** | Hardware Test Engineering Intern -  (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed) | 1d ago |
 | **GE Healthcare** | AI Research Intern | Remote | F26 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/AI-Research-Intern_R4035769-1) | 1d ago |
 | 🔥 **Cloudflare** | Automation Engineer Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7774224?utm_source=Simplify&ref=Simplify) | 1d ago |
