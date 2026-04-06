@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 06, 2026 at 08:38 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 06, 2026 at 02:25 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 97 |
-| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 19 |
-| 📊 [Data Science & Analytics](#-data-science--analytics) | 46 |
+| 💻 [Software Engineering](#-software-engineering) | 98 |
+| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 20 |
+| 📊 [Data Science & Analytics](#-data-science--analytics) | 47 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
 | 🔹 [Other](#-other) | 331 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 40 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 39 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 87 |
-| **Total** | **499** |
+| **Total** | **502** |
 
 ---
 
@@ -46,6 +46,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Software Engineering Intern (Mission Systems Software) - (Summer & Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc) | today |
 | **Fiserv** | Military Pathways – Technology Intern Program | Alpharetta, GA | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Military-Pathways---Technology-Internship-Program_R-10391447?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Alcon** | Intern | Johns Creek, GA | F26 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johns-Creek-Georgia/Summer-2026-Intern_R-2026-46091?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Resmed** | Product Analyst Intern | Norcross, GA | F26 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Product-Analyst-Intern_JR_048630?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -120,7 +121,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Hermeus** | Flight Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 1mo ago |
 | **Hermeus** | GNC Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 1mo ago |
 | **Hermeus** | Hardware-In-the-Loop Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/2b615685-7872-4da4-a4d5-03410fc1030a) | 1mo ago |
-| **Hermeus** | Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc) | 1mo ago |
 | **Hermeus** | Supply Chain Intern (Summer 2026) | Atlanta, GA | S26 | [Apply](https://jobs.lever.co/hermeus/f84db43b-d547-4deb-8b2c-82fbd495ed84) | 1mo ago |
 | **Johnson & Johnson** | Fall 2026 Quality Engineering Co-op | Cornelia, Georgia, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1) | 1mo ago |
 | **Johnson & Johnson** | GTO Manufacturing Engineering Co-Op | Cornelia, Georgia, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-053533) | 1mo ago |
@@ -141,7 +141,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 1d ago |
 | 🔥 **Twilio** | Technical Video Content Intern, Developer Ecosystem | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748961) | 1d ago |
 | 🔥 **Twilio** | Video Producer Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748964) | 1d ago |
@@ -194,10 +193,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Software Engineering Intern (Mission Systems Software) - (Summer & Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc) | today |
 | **AllTrails** | iOS Engineer Graduate Intern, Growth | Remote in US | F26 | [Apply](https://jobs.lever.co/alltrails/83007ddb-703c-4dc6-a80a-09c379efdf7c?utm_source=Simplify&ref=Simplify) | today |
 | **Texas Farm Bureau Casualty Insurance Company** | Software Developer Intern 🇺🇸 | Waco, TX | F26 | [Apply](https://jobs.dayforcehcm.com/en-US/texasfarm/CANDIDATEPORTAL/jobs/634?utm_source=Simplify&ref=Simplify) | today |
 | **AllTrails** | Android Engineer Intern, Core | Remote in US | F26 | [Apply](https://jobs.lever.co/alltrails/431d989a-3c29-4a15-a869-fc0a2e3f6043?utm_source=Simplify&ref=Simplify) | today |
 | **AllTrails** | Android Engineer Intern, Disco | Remote in US | F26 | [Apply](https://jobs.lever.co/alltrails/f934fba7-5159-4dab-a6ff-8cbda90579dd?utm_source=Simplify&ref=Simplify) | today |
+| **WSP** | Software Developer Intern | Dallas, TX | F26 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/84271?utm_source=Simplify&ref=Simplify) | today |
 | **Leidos** | Cybersecurity Platform Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999) | 2d ago |
 | **Genuine Parts Company** | Software Developer InternBirmingham, AL\|Part time\| | Birmingham, AL | F26 | [Apply](https://jobs.genpt.com/job/birmingham/software-developer-intern/505/93543505632) | 2d ago |
 | **Genuine Parts Company** | Software Developer Intern | Birmingham, AL | F26 | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000010973?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -283,7 +284,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Mercury** | Software Engineering Intern - AI Enablement (Fall 2026) | San Francisco, CA, New York and 4 more | F26 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5817107004) | 1mo ago |
 | **Hermeus** | Flight Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 1mo ago |
 | **Hermeus** | Hardware-In-the-Loop Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/2b615685-7872-4da4-a4d5-03410fc1030a) | 1mo ago |
-| **Hermeus** | Software Engineering Intern (Datalinks/C2) - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/1ce52371-c210-49b5-9a2b-5af6706137bc) | 1mo ago |
 | **Johnson & Johnson** | MAKE 2026 Software Engineering Intern/Co Op | Jacksonville, Florida, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/MAKE-2026-Software-Engineering-Intern-Co-Op_R-031634) | 1mo ago |
 | **Motorola Solutions** | 2026 Software Engineering Summer Internship | Plantation, FL | F26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2026-Software-Engineering-Summer-Internship_R59830) | 1mo ago |
 | **Motorola Solutions** | DSP (Digital Signal Processing) Software Engineering Intern - Summer 2026 | Plantation, FL | S26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern_R58753) | 1mo ago |
@@ -301,6 +301,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Cummins** | Degree Apprenticeship - Data Scientist Level 6 | Durham, UK | F26 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2424778?utm_source=Simplify&ref=Simplify) | today |
 | **Roadie** | AI Engineer Intern- Summer 2026 | REMOTE | S26 | [Apply](https://job-boards.greenhouse.io/roadie/jobs/8479096002) | 1d ago |
 | **Actian** | AI Engineering Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f/apply?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Cambium Learning Group** | Machine Learning Intern | Remote in USA | F26 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4432?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -331,6 +332,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **University of Virginia** | Data Engineering Student Intern | Charlottesville, VA | F26 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Data-Engineering-Student-Intern--Student-Wage-_R0082207?utm_source=Simplify&ref=Simplify) | today |
 | **VSP Vision** | Data Analytics Intern - Data Analytics | Lewisville, TX | F26 | [Apply](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Harris Computer** | Business Intelligence Intern | South Carolina, Tennessee, Georgia and 2 more | F26 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Atlanta-Galleria/Business-Intelligence-Intern_R0040155?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Samsung** | Data Analytics Intern - Retail Performance | Plano, TX | F26 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Data-Analytics-Internship--Retail-Performance-_R114119?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -400,9 +402,9 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
 | **Continental** | Intern - Customs Compliance, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000118861877) | today |
+| **Leidos** | Engineering Intern – Software/App Development | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---Software-App-Development_R-00180059) | today |
+| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
 | **Leidos** | Software Development Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Development-Intern_R-00179636) | 1d ago |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 1d ago |
 | 🔥 **Twilio** | Technical Video Content Intern, Developer Ecosystem | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748961) | 1d ago |

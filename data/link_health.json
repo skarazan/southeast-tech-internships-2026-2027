@@ -1932,10 +1932,26 @@
     "last_checked": "2026-04-06"
   },
   "460cb7c636cdbcf3c955122eeca5123545a6be1e173e235fa0f0bad1f1f1d8e8": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-06"
   },
   "7079e5d87fa515d343917259c9873cb28a7bad6a82ae4d914953c050b7ae00a7": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-04-06"
+  },
+  "adbfdb30849189c0c9df7870e41386881549eac999b9c4c51f75324ef79649e1": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-06"
+  },
+  "66fe4ee3de701f8c2d629dc7fb89b7ebd1e0451a5f10f9437fb366434aad202c": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-06"
+  },
+  "1d528822521e1036da56c0962efe1ccae11ac8dbac8a3e44cfa5de1c1e37a13b": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-06"
+  },
+  "9d6024a4167fea4ea7666dbd0eddd9a37877b36de3e30e6073272a738eaf9902": {
     "consecutive_failures": 1,
     "last_checked": "2026-04-06"
   }
