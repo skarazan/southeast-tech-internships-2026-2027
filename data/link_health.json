@@ -1930,5 +1930,13 @@
   "b6334cd433c137240e5897e97379fe4063f5898aedcd2f80d5f862df896e688c": {
     "consecutive_failures": 0,
     "last_checked": "2026-04-06"
+  },
+  "460cb7c636cdbcf3c955122eeca5123545a6be1e173e235fa0f0bad1f1f1d8e8": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-06"
+  },
+  "7079e5d87fa515d343917259c9873cb28a7bad6a82ae4d914953c050b7ae00a7": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-06"
   }
 }
