@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 06, 2026 at 10:14 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 07, 2026 at 02:41 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -21,7 +21,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 49 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
 | 🔹 [Other](#-other) | 340 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 40 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 39 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 90 |
 | **Total** | **522** |
 
@@ -144,7 +144,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | 1d ago |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 2d ago |
 | 🔥 **Twilio** | Technical Video Content Intern, Developer Ecosystem | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748961) | 2d ago |
@@ -415,8 +414,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
+| **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314551\|Fort Worth, TX\|Genoa Healthcare | Fort Worth, TX | F26 | [Apply](https://careers.unitedhealthgroup.com/job/fort-worth/pharmacist-intern-behavioral-health/34088/92872098832) | today |
+| **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314553\|Tampa, FL\|Genoa Healthcare | Tampa, FL | F26 | [Apply](https://careers.unitedhealthgroup.com/job/tampa/pharmacist-intern-behavioral-health/34088/92872100928) | today |
 | **Actian** | AI Solutions Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/01c8697e-5880-4084-ac27-542d13306bce/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Construction Resources** | Web / Full-Stack Development Intern | Decatur, GA | F26 | [Apply](https://job-boards.greenhouse.io/constructionresources/jobs/5171622008?utm_source=Simplify&ref=Simplify) | today |
 | **Aledade** | Intern - AI Researcher | Remote in USA | F26 | [Apply](https://jobs.lever.co/aledade/c60c9ff9-7011-43a0-802c-d3c3d91b0291/apply?utm_source=Simplify&ref=Simplify) | today |
@@ -426,6 +425,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | **DNV** | Data Science Intern | Houston, TX | F26 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6419?utm_source=Simplify&ref=Simplify) | today |
 | **BP** | Intern - Subsurface Technology Petrophysicist | Houston, TX | F26 | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-intern---Subsurface-Technology-Petrophysicist---Houston--TX_RQ109113?utm_source=Simplify&ref=Simplify) | today |
 | **City of Austin** | Demographics GIS Intern | Texas | F26 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Remote-TX/Demographics-GIS-Intern_JR103364-1?utm_source=Simplify&ref=Simplify) | today |
+| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
+| **SiFive** | Intern Platform Technology | Boston, MA, Austin and 9 more | F26 | [Apply](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Austin-Texas-United-States/Intern---Platform-Technology_R-101065?utm_source=Simplify&ref=Simplify) | today |
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | 1d ago |
 | **Continental** | Intern - Customs Compliance, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000118861877) | 1d ago |
 | **Leidos** | Engineering Intern – Software/App Development | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---Software-App-Development_R-00180059) | 1d ago |
@@ -623,8 +624,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Leidos** | AI/ML Observability Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279) | 3w ago |
 | **Leidos** | Object-Oriented Developer Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Object-Oriented-Developer-Intern_R-00178252) | 3w ago |
 | **Bosch** | Summer Internship \| Bosch Blaj | Blaj, Alba | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000114896577) | 3w ago |
-| **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314551\|Fort Worth, TX | Fort Worth, TX | F26 | [Apply](https://careers.unitedhealthgroup.com/job/fort-worth/pharmacist-intern-behavioral-health/34088/92872098832) | 3w ago |
-| **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314553\|Tampa, FL | Tampa, FL | F26 | [Apply](https://careers.unitedhealthgroup.com/job/tampa/pharmacist-intern-behavioral-health/34088/92872100928) | 3w ago |
 | **UnitedHealth Group** | Pharmacist Intern - Prior Authorization and Appeals - Remote2314605\|Houston, TX\|Remote | Houston, TX | F26 | [Apply](https://careers.unitedhealthgroup.com/job/houston/pharmacist-intern-prior-authorization-and-appeals-remote/34088/92872105760) | 3w ago |
 | **Autodesk** | Digital Readiness Analyst Internship | California, USA - Remote | F26 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Digital-Readiness-Analyst-Internship_26WD96410-3) | 3w ago |
 | **Bandwidth** | Product Management Intern | Raleigh, NC | F26 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/7723925?utm_source=Simplify&ref=Simplify) | 3w ago |
