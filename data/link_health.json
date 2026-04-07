@@ -1960,6 +1960,18 @@
     "last_checked": "2026-04-07"
   },
   "8b9337aa17d928828c8c09d22310db560cad7e743efd7e2ab37beb3b8e91f65f": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-04-07"
+  },
+  "c3c63cfba3507205b7577a0178056c397a3f4d559593eacd4e36aa7182145798": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-07"
+  },
+  "3deed75df299f929ea662a1dd64ac26c18b1c8732ca33443dcf5cd65395c0052": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-04-07"
+  },
+  "fa2237d9aa0340a61f77d9769bf616e247b610938575f96094325733de73037b": {
     "consecutive_failures": 1,
     "last_checked": "2026-04-07"
   }
