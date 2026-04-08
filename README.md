@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 08, 2026 at 02:58 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 08, 2026 at 09:01 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 23 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 53 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
-| 🔹 [Other](#-other) | 353 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 41 |
+| 🔹 [Other](#-other) | 351 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 42 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 92 |
-| **Total** | **541** |
+| **Total** | **539** |
 
 ---
 
@@ -48,7 +48,7 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **BigCommerce** | Intern – Software Engineering - TypeScript / Full Stack | Atlanta, GA | F26 | [Apply](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---GA---Atlanta-Office/Intern--Software-Engineering---Typescript---Full-Stack_JR102475?utm_source=Simplify&ref=Simplify) | today |
 | **YMCA of Metropolitan Atlanta** | Analytics Intern - HR & Finance | Atlanta, GA | F26 | [Apply](https://ymcaatlanta.wd1.myworkdayjobs.com/ymca-careers/job/Atlanta-GA/Analytics-Intern---HR---Finance_R0012285?utm_source=Simplify&ref=Simplify) | today |
-| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - PACS | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---PACS_R-139296) | today |
+| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - Franchise Operations | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---Franchise-Operations_R-139294) | today |
 | **Construction Resources** | Web / Full-Stack Development Intern | Decatur, GA | F26 | [Apply](https://job-boards.greenhouse.io/constructionresources/jobs/5171622008?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Cummins** | Product Engineering Intern | Columbus, IN | F26 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426244?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **iTradeNetwork** | Software Engineer Intern - Machine Learning | Oakland, CA, Charlotte and 5 more | F26 | [Apply](https://www.itradenetwork.com/jobs/5171428008?gh_jid=5171428008&utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -149,6 +149,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔥 **Twilio** | Evangelist Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | today |
 | 🔥 **Twilio** | Public Relations & Social Media Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7744133) | today |
 | 🔥 **Twilio** | Social Impact and Community Engagement Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728949) | today |
+| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | 🔥 **Dropbox** | Poland Software Engineering Intern (Summer 2026) 🔒 | Remote - Poland | spring_2026 | 🔒 Closed | today |
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | 2d ago |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 3d ago |
@@ -424,8 +425,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔥 **Twilio** | Evangelist Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | today |
 | 🔥 **Twilio** | Public Relations & Social Media Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7744133) | today |
 | 🔥 **Twilio** | Social Impact and Community Engagement Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728949) | today |
-| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
+| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314551\|Fort Worth, TX\|Genoa Healthcare | Fort Worth, TX | F26 | [Apply](https://careers.unitedhealthgroup.com/job/fort-worth/pharmacist-intern-behavioral-health/34088/92872098832) | 1d ago |
 | **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314553\|Tampa, FL\|Genoa Healthcare | Tampa, FL | F26 | [Apply](https://careers.unitedhealthgroup.com/job/tampa/pharmacist-intern-behavioral-health/34088/92872100928) | 1d ago |
 | **Actian** | AI Solutions Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/01c8697e-5880-4084-ac27-542d13306bce/apply?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -439,12 +439,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | **City of Austin** | Demographics GIS Intern | Texas | F26 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Remote-TX/Demographics-GIS-Intern_JR103364-1?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **SiFive** | Intern Platform Technology | Boston, MA, Austin and 9 more | F26 | [Apply](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Austin-Texas-United-States/Intern---Platform-Technology_R-101065?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Leidos** | Earned Value Management and Scheduling Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Earned-Value-Management-and-Scheduling-Intern_R-00174254) | 1d ago |
-| **Precisely** | Product Marketing Intern | Remote in USA | F26 | [Apply](https://www.precisely.com/careers-and-culture/us-jobs/job/4670236005?gh_jid=4670236005&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Zscaler** | Insider Risk Analyst - SkillBridge Intern | Remote - USA | F26 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5100618007) | 1d ago |
 | **Continental** | Intern - Sea Freight Logistics, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000119185967) | 1d ago |
 | **Actian** | Product Engineer Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/a28a9ac3-70eb-4c5d-818b-d090b618df78/apply?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Rocket Mortgage** | Product Development Intern | Lewisville, TX | F26 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lewisville-TX/Product-Development-Intern---Summer-2026_R-081999?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **AssetMark** | Data Intern | Charlotte, NC | F26 | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Data-Intern_Req-003751?utm_source=Simplify&ref=Simplify) | 1d ago |
+| **Precisely** | Product Marketing Intern 🔒 | Remote in USA | F26 | 🔒 Closed | 1d ago |
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | 2d ago |
 | **Continental** | Intern - Customs Compliance, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000118861877) | 2d ago |
 | **Leidos** | Engineering Intern – Software/App Development | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---Software-App-Development_R-00180059) | 2d ago |
