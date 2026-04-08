@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 07, 2026 at 10:08 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 08, 2026 at 02:58 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -18,12 +18,12 @@ Use this repo to discover and track **tech internships** across software enginee
 |----------|-----------|
 | 💻 [Software Engineering](#-software-engineering) | 106 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 23 |
-| 📊 [Data Science & Analytics](#-data-science--analytics) | 52 |
+| 📊 [Data Science & Analytics](#-data-science--analytics) | 53 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 6 |
-| 🔹 [Other](#-other) | 349 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 39 |
+| 🔹 [Other](#-other) | 353 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 41 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 92 |
-| **Total** | **536** |
+| **Total** | **541** |
 
 ---
 
@@ -46,9 +46,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - Franchise Operations | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---Franchise-Operations_R-139294) | today |
 | **BigCommerce** | Intern – Software Engineering - TypeScript / Full Stack | Atlanta, GA | F26 | [Apply](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---GA---Atlanta-Office/Intern--Software-Engineering---Typescript---Full-Stack_JR102475?utm_source=Simplify&ref=Simplify) | today |
 | **YMCA of Metropolitan Atlanta** | Analytics Intern - HR & Finance | Atlanta, GA | F26 | [Apply](https://ymcaatlanta.wd1.myworkdayjobs.com/ymca-careers/job/Atlanta-GA/Analytics-Intern---HR---Finance_R0012285?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - PACS | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---PACS_R-139296) | today |
 | **Construction Resources** | Web / Full-Stack Development Intern | Decatur, GA | F26 | [Apply](https://job-boards.greenhouse.io/constructionresources/jobs/5171622008?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Cummins** | Product Engineering Intern | Columbus, IN | F26 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426244?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **iTradeNetwork** | Software Engineer Intern - Machine Learning | Oakland, CA, Charlotte and 5 more | F26 | [Apply](https://www.itradenetwork.com/jobs/5171428008?gh_jid=5171428008&utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -146,7 +146,10 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
+| 🔥 **Twilio** | Evangelist Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | today |
+| 🔥 **Twilio** | Public Relations & Social Media Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7744133) | today |
+| 🔥 **Twilio** | Social Impact and Community Engagement Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728949) | today |
+| 🔥 **Dropbox** | Poland Software Engineering Intern (Summer 2026) 🔒 | Remote - Poland | spring_2026 | 🔒 Closed | today |
 | 🔥 **Intel** | Circuit Design Engineer Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | 2d ago |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 3d ago |
 | 🔥 **Twilio** | Technical Video Content Intern, Developer Ecosystem | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748961) | 3d ago |
@@ -197,6 +200,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **RTX** | Software Engineer Intern | Melbourne, FL | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2026---Onsite-_01832599?utm_source=Simplify&ref=Simplify) | today |
 | **ArteraAI** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0/apply?utm_source=Simplify&ref=Simplify) | today |
 | **Emerson Electric** | Software Engineering Intern | Austin, TX | F26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004161?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Dropbox** | Poland Software Engineering Intern (Summer 2026) 🔒 | Remote - Poland | spring_2026 | 🔒 Closed | today |
 | **Bot Auto** | Intern Software Engineer - Autonomous Driving Platform | Houston, TX | F26 | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5178234008?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **IXL Learning** | Software Engineer Intern | Raleigh, NC | F26 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8486934002&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Parachute Health** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://job-boards.greenhouse.io/parachutehealth/jobs/4772847007?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -343,6 +347,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Relay** | Sales Data & Analytics Intern | Raleigh, NC | F26 | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/7785660?utm_source=Simplify&ref=Simplify) | today |
 | **YMCA of Metropolitan Atlanta** | Analytics Intern - HR & Finance | Atlanta, GA | F26 | [Apply](https://ymcaatlanta.wd1.myworkdayjobs.com/ymca-careers/job/Atlanta-GA/Analytics-Intern---HR---Finance_R0012285?utm_source=Simplify&ref=Simplify) | today |
 | **Xylem** | Business Operations & Data Analyst Intern | Charlotte, NC | F26 | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Charlotte-North-Carolina/Business-Operations---Data-Analyst-Intern_R47255-1?utm_source=Simplify&ref=Simplify) | today |
+| **LMI** | Data & Financial Analytics Intern | Remote in USA | F26 | [Apply](https://careers-lmi.icims.com/jobs/13868/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
 | **AAA Club Alliance** | Data Engineer Intern | Coppell, TX | F26 | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Data-Engineer-Intern_JR202635739?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Acxiom** | Intern – Data Engineer | Jacksonville, AR | F26 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer---Summer-2026_JR013957?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **University of Virginia** | Data Engineering Student Intern | Charlottesville, VA | F26 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Data-Engineering-Student-Intern--Student-Wage-_R0082207?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -413,10 +418,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | **Acxiom** | Intern Data Solution Developer | Jacksonville, AR | F26 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Intern---Data-Solution-Developer---Summer-2026_JR014044?utm_source=Simplify&ref=Simplify) | today |
 | **Cerence** | AI Intern | Remote in USA | F26 | [Apply](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/AI-Intern_R0005919?utm_source=Simplify&ref=Simplify) | today |
 | **Actian** | Conversational AI & Agentic Support Automation Intern - Salesforce | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/2c3aedad-c4fb-4a7a-8605-427c9b5cb9b9/apply?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Twilio** | Evangelist Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | today |
+| 🔥 **Twilio** | Public Relations & Social Media Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7744133) | today |
+| 🔥 **Twilio** | Social Impact and Community Engagement Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728949) | today |
+| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
+| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R52911-2) | today |
 | **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314551\|Fort Worth, TX\|Genoa Healthcare | Fort Worth, TX | F26 | [Apply](https://careers.unitedhealthgroup.com/job/fort-worth/pharmacist-intern-behavioral-health/34088/92872098832) | 1d ago |
 | **UnitedHealth Group** | Pharmacist Intern Behavioral Health2314553\|Tampa, FL\|Genoa Healthcare | Tampa, FL | F26 | [Apply](https://careers.unitedhealthgroup.com/job/tampa/pharmacist-intern-behavioral-health/34088/92872100928) | 1d ago |
 | **Actian** | AI Solutions Intern | Remote in USA | F26 | [Apply](https://jobs.lever.co/actian/01c8697e-5880-4084-ac27-542d13306bce/apply?utm_source=Simplify&ref=Simplify) | 1d ago |
