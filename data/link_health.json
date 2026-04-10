@@ -2068,10 +2068,14 @@
     "last_checked": "2026-04-10"
   },
   "237fd34c881173bcbf837083b15ac03e1f2f8ac5bf93467032096b24aaf81902": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-10"
   },
   "4c8c6b60871974207910604977f75ac7eb0c7a23abf14687f2dd9ede714b0b7c": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-04-10"
+  },
+  "58a0629f0a0a658d1f03dbfbc2c989dd9333f8e98348567ed22405c275ff2bf8": {
     "consecutive_failures": 1,
     "last_checked": "2026-04-10"
   }
