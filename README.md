@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 10, 2026 at 09:59 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 11, 2026 at 02:16 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -18,12 +18,12 @@ Use this repo to discover and track **tech internships** across software enginee
 |----------|-----------|
 | 💻 [Software Engineering](#-software-engineering) | 114 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 26 |
-| 📊 [Data Science & Analytics](#-data-science--analytics) | 57 |
+| 📊 [Data Science & Analytics](#-data-science--analytics) | 56 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 8 |
-| 🔹 [Other](#-other) | 380 |
+| 🔹 [Other](#-other) | 378 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 44 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 101 |
-| **Total** | **585** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 100 |
+| **Total** | **582** |
 
 ---
 
@@ -136,7 +136,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Hermeus** | Flight Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 1mo ago |
 | **Hermeus** | GNC Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 1mo ago |
 | **Hermeus** | Hardware-In-the-Loop Software Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/2b615685-7872-4da4-a4d5-03410fc1030a) | 1mo ago |
-| **Hermeus** | Supply Chain Intern (Summer 2026) | Atlanta, GA | S26 | [Apply](https://jobs.lever.co/hermeus/f84db43b-d547-4deb-8b2c-82fbd495ed84) | 1mo ago |
 | **Johnson & Johnson** | Fall 2026 Quality Engineering Co-op | Cornelia, Georgia, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1) | 1mo ago |
 | **Johnson & Johnson** | GTO Manufacturing Engineering Co-Op | Cornelia, Georgia, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-053533) | 1mo ago |
 | **Samsung** | Supply Chain Intern | 2727 Paces Ferry Road SE, Atlanta, GA and 1 more | F26 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/2727-Paces-Ferry-Road-SE-Atlanta-GA-USA/Supply-Chain-Intern_R114925) | 1mo ago |
@@ -148,6 +147,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Cox** | Talent Acquisition Intern - Summer 2026 | Atlanta GA | S26 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Talent-Acquisition-Intern---Summer-2026_R202673535) | 1mo ago |
 | **Cox** | AJC Reporting Intern - Summer 2026 | Atlanta GA | S26 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AJC-Reporting-Intern---Summer-2026_R202673540) | 1mo ago |
 | **Intuitive Surgical** | ML Engineering Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000107840054) | 1mo ago |
+| **Hermeus** | Supply Chain Intern (Summer 2026) 🔒 | Atlanta, GA | S26 | 🔒 Closed | 1mo ago |
 
 ---
 
@@ -384,9 +384,9 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Samsung** | Data Analytics Intern - Retail Performance | Plano, TX | F26 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Data-Analytics-Internship--Retail-Performance-_R114119?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **SharkNinja** | Applied AI & Analytics Intern | Miami, FL | F26 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669665006?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Primerica** | Data Engineering Intern | Duluth, GA | F26 | [Apply](https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Data-Engineering-Intern_R-136032026?utm_source=Simplify&ref=Simplify) | 1w ago |
-| **TDS** | Field Services Data Analytics Intern | Remote in USA | F26 | [Apply](https://external-telecom-teldta.icims.com/jobs/29079/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Greenlight** | Data Engineering Intern | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/greenlight/b5d9d9b2-9d06-4db7-932c-30fd4a43825d/apply?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Greenlight** | Data Analytics Intern | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/greenlight/000fea6e-4dc2-42a7-9389-b6591dbecdb1/apply?utm_source=Simplify&ref=Simplify) | 1w ago |
+| **TDS** | Field Services Data Analytics Intern 🔒 | Remote in USA | F26 | 🔒 Closed | 1w ago |
 | **Marriott Vacations Worldwide** | Data & Analytics Intern | Orlando, FL | F26 | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Data---Analytics-Internship---Summer-2026---Orlando--FL_JR89259?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Inmar Intelligence** | Data Analyst Intern - AI & Chatbot Optimization | Winston-Salem, NC | F26 | [Apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Analyst-Intern---AI---Chatbot-Optimization--Summer-2026_JY2526720?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **GEHA** | Data Analytics Intern | Remote in USA | F26 | [Apply](https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Remote/Intern---Data-Analytics_R-005244?utm_source=Simplify&ref=Simplify) | 1w ago |
@@ -768,7 +768,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Mercury** | Strategic Finance MBA Intern | San Francisco, CA, New York and 4 more | S26 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5775490004) | 1mo ago |
 | **Hermeus** | Avionics Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/0f52df07-bd23-44cb-a24d-3346f6d94201) | 1mo ago |
 | **Hermeus** | GNC Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 1mo ago |
-| **Hermeus** | Supply Chain Intern (Summer 2026) | Atlanta, GA | S26 | [Apply](https://jobs.lever.co/hermeus/f84db43b-d547-4deb-8b2c-82fbd495ed84) | 1mo ago |
 | 🔥 **NVIDIA** | PhD Research Intern, AI for Climate and Weather Simulation 2026 | UK, Remote | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation-2026_JR2006536) | 1mo ago |
 | 🔥 **Cisco** | Support Engineer I (Intern) - United States | USA-RESEARCH TRIANGLE PARK | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Support-Engineer-I--Intern----United-States_2001892) | 1mo ago |
 | 🔥 **Cisco** | Quality Assurance I (Intern) - United States | RTP, North Carolina, US | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Quality-Assurance-I--Intern----United-States_2001815) | 1mo ago |
@@ -783,7 +782,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Samsung** | Supply Chain Intern | 2727 Paces Ferry Road SE, Atlanta, GA and 1 more | F26 | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/2727-Paces-Ferry-Road-SE-Atlanta-GA-USA/Supply-Chain-Intern_R114925) | 1mo ago |
 | **Micron Technology** | Intern  - Design Architecture, HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR89643) | 1mo ago |
 | **Autodesk** | Intern, AI Research | United Kingdom - Remote | F26 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--AI-Research_25WD92190-1) | 1mo ago |
-| **Autodesk** | Intern, Agentic AI Workflows (AEC Research) | New York, USA - Remote | F26 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/Intern--Agentic-AI-Workflows--AEC-Research-_26WD94901-1) | 1mo ago |
 | **Motorola Solutions** | Software System Technologist Intern (Summer 2026 Internship) | Allen, TX (TX139) | S26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2026-Internship-_R59238) | 1mo ago |
 | **Motorola Solutions** | UO FE Summer Internship 2026 | Texas Remote Work | F26 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/UO-FE-Summer-Internship-2026_R58011) | 1mo ago |
 | **Leidos** | Manufacturing/Quality Intern | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00175383) | 1mo ago |
@@ -829,6 +827,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Genuine Parts Company** | Engineering InternBirmingham, AL\|Part time\| | Birmingham, AL | F26 | [Apply](https://jobs.genpt.com/job/birmingham/engineering-intern/505/92465962304) | 1mo ago |
 | **Axiom Space** | Software Application Engineering Intern | Houston, TX | F26 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Application-Engineering-Intern--Summer-2026-_JR100352?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **S&P Global** | WSO Operations Intern (Early Careers) | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/WSO-Operations-Intern--Early-Careers-_326382-1) | 1mo ago |
+| **Hermeus** | Supply Chain Intern (Summer 2026) 🔒 | Atlanta, GA | S26 | 🔒 Closed | 1mo ago |
+| **Autodesk** | Intern, Agentic AI Workflows (AEC Research) 🔒 | New York, USA - Remote | F26 | 🔒 Closed | 1mo ago |
 
 ---
 
