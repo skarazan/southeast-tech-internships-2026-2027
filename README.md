@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 13, 2026 at 10:34 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 14, 2026 at 03:12 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 27 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 58 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 8 |
-| 🔹 [Other](#-other) | 395 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 49 |
+| 🔹 [Other](#-other) | 392 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 48 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 105 |
-| **Total** | **606** |
+| **Total** | **603** |
 
 ---
 
@@ -47,10 +47,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Hermeus** | Subsystem Test Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed) | today |
-| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - PACS | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---PACS_R-139296) | today |
 | **Becton Dickinson** | Product Engineering Intern | Monroe, GA | F26 | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Intern---Product-Engineering_R-542887?utm_source=Simplify&ref=Simplify) | today |
 | **Geosyntec Consultants** | Data Scientist/Artificial Intelligence Intern - AI | Kennesaw, GA | F26 | [Apply](https://careers-geosyntec.icims.com/jobs/4383/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
 | **EyeSouth Partners** | Data Analytics Intern | Atlanta, GA | F26 | [Apply](https://careers-eyesouthpartners.icims.com/jobs/9263/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - Franchise Operations | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---Franchise-Operations_R-139294) | today |
 | **GAINS** | Data Science Intern | Atlanta, GA | F26 | [Apply](https://gainsystems.applytojob.com/apply/LYgorNYL2m/Data-Science-Intern?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Coca-Cola** | CO-Op - Engineering Technician | US - GA - Atlanta | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CO-Op---Engineering-Technician_R-138373) | 1d ago |
 | **KION Group** | Procurement Intern | Atlanta, GA | F26 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -160,7 +160,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - Canada | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7811321) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | 🔥 **Cloudflare** | Business Systems Analyst Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7812290?utm_source=Simplify&ref=Simplify) | today |
 | 🔥 **Coca-Cola** | CO-Op - Engineering Technician | US - GA - Atlanta | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CO-Op---Engineering-Technician_R-138373) | 1d ago |
 | 🔥 **Northrop Grumman** | Systems Engineer Intern | Halethorpe, MD, Huntsville and 1 more | F26 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Systems-Engineer-Intern---Huntsville-AL-and-Linthicum-MD_R10218249-2?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -466,10 +465,7 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Hermeus** | Subsystem Test Engineering Intern - (Summer/Fall 2026) | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed) | today |
 | 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - Canada | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7811321) | today |
-| 🔥 **Morgan Stanley** | intern | Fairhope, Alabama, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Fairhope-Alabama-United-States-of-America/intern_JR029207-1) | today |
 | **Johnson & Johnson** | J&J Innovative Medicine North America Operations Undergrad Summer Intern | Washington, District of Columbia, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080) | today |
-| **S&P Global** | Summer Intern | Dallas, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1) | today |
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R53568-1) | today |
 | **Tenstorrent** | Applied AI Workflow Automation Intern | Toronto, ON, Canada and 6 more | F26 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007?utm_source=Simplify&ref=Simplify) | today |
 | **Commvault** | AI & Support Automation Intern | Remote in USA | F26 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5051703008?utm_source=Simplify&ref=Simplify) | today |
 | **Becton Dickinson** | Product Engineering Intern | Monroe, GA | F26 | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Intern---Product-Engineering_R-542887?utm_source=Simplify&ref=Simplify) | today |
