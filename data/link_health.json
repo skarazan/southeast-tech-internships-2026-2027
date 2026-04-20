@@ -2708,18 +2708,22 @@
     "last_checked": "2026-04-20"
   },
   "aa6ebda5ca35befe259f13085240e1b3fb850ffe9a2618be333778523f6c05ad": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-20"
   },
   "9fc9083b054ed99186f294147e7486253ed25323c1158a7d9d39fa9005e491f9": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-20"
   },
   "b11779d01fe5e26039c807c454e73a35fdef6bfd433ce9eb5c39e6460f2a0653": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-04-20"
   },
   "c5ea6266ba4ecd6c81c3c82be8012f38c8a5ad81008dbc0db810ca6c5b2ef8f3": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-04-20"
+  },
+  "0822ffddc28815096ad58407553e3e1e3123cd9b0a9dbd00bc21faadf04437df": {
     "consecutive_failures": 1,
     "last_checked": "2026-04-20"
   }
