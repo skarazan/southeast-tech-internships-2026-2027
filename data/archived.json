@@ -13737,8 +13737,37 @@
       "industry": "fintech",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "967fb3c3b7b8076955f240476143d4b169c236e46a0cc96cca2a77a78a43aef3",
+      "company": "Cotiviti",
+      "company_slug": "cotiviti",
+      "role": "Temporary Intern - Business Systems Analyst",
+      "category": "other",
+      "locations": [
+        "Remote in USA"
+      ],
+      "apply_url": "https://careers-cotiviti.icims.com/jobs/18432/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-04-10",
+      "date_last_verified": "2026-04-12",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-04-19T03:42:12.241382Z",
+  "last_updated": "2026-04-20T03:46:03.671353Z",
   "total_open": 0
 }
