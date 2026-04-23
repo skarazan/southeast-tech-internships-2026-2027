@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: April 22, 2026 at 10:39 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: April 23, 2026 at 03:20 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 35 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 65 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 12 |
-| 🔹 [Other](#-other) | 458 |
+| 🔹 [Other](#-other) | 457 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 51 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 128 |
-| **Total** | **705** |
+| **Total** | **704** |
 
 ---
 
@@ -46,10 +46,10 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - Franchise Operations | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---Franchise-Operations_R-139294) | today |
 | **Fiserv** | Technology Intern Program | Alpharetta, GA, Marietta and 1 more | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Technology-Intern-Program_R-10393338?utm_source=Simplify&ref=Simplify) | today |
 | **United Parcel Service (UPS)** | HR Intern – Data Analytics Focus | Atlanta, GA | F26 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/HR-Intern--Data-Analytics-Focus--Summer-2026-_R26013136?utm_source=Simplify&ref=Simplify) | today |
 | **Booz Allen** | University Games Data Scientist Intern | Honolulu, HI, Annapolis Junction and 19 more | F26 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0226437?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Coca-Cola** | Coca-Cola Ignite Intern - PACS | Greece - Athens | F26 | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Greece---Athens/Coca-Cola-Ignite-Intern---PACS_R-139296) | today |
 | **Fiserv** | Project Management- Summer Internship | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Internship---Product-Project-Management_R-10378800) | 1d ago |
 | **Fiserv** | Cloud Platform Engineer - Summer Intern | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Cloud-Platform-Engineer---Summer-Intern_R-10390232) | 1d ago |
 | **CareSource** | CareSource AI Intern | Kent, OH, Frazeysburg and 88 more | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Dayton-OH/CareSource-AI-Intern_R12597?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -185,7 +185,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7835625) | today |
+| 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - Canada | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7811321) | today |
 | 🔥 **Twilio** | Developer Advocacy Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | 1d ago |
 | 🔥 **Instacart** | Machine Learning PhD Intern, Economics | United States - Remote | F26 | [Apply](https://instacart.careers/job/?gh_jid=7532267) | 2d ago |
 | 🔥 **General Motors** | Intern - AI/ML Engineer - Cloud and Developer Infrastructure | Milford Charter Twp, MI, Austin and 9 more | F26 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316?utm_source=Simplify&ref=Simplify) | 4d ago |
@@ -248,9 +248,9 @@ Use this repo to discover and track **tech internships** across software enginee
 | **AssetMark** | Software Engineering Intern | Austin, TX | F26 | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Austin-TX/Software-Engineering-Intern_Req-003804?utm_source=Simplify&ref=Simplify) | today |
 | **By Light Professional IT Services** | Software Engineer Intern | Orlando, FL | F26 | [Apply](https://jobs-bylight.icims.com/jobs/10946/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
 | **Fiserv** | Technology Intern Program | Alpharetta, GA, Marietta and 1 more | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Technology-Intern-Program_R-10393338?utm_source=Simplify&ref=Simplify) | today |
+| **General Dynamics Mission Systems** | Intern Software Engineer | Orlando, FL | F26 | [Apply](https://careers-gdms.icims.com/jobs/72207/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
 | **Fiserv** | Cloud Platform Engineer - Summer Intern | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Cloud-Platform-Engineer---Summer-Intern_R-10390232) | 1d ago |
 | **Genuine Parts Company** | Software Developer InternBirmingham, AL\|Part time\| | Birmingham, AL | F26 | [Apply](https://jobs.genpt.com/job/birmingham/software-developer-intern/505/93543505632) | 1d ago |
-| **General Dynamics Mission Systems** | Software Engineer Intern | San Antonio, TX, Scottsdale and 1 more | F26 | [Apply](https://careers-gdms.icims.com/jobs/72048/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Bosch** | Software Engineering Intern/Co-op- Summer 2026 | Fountain Inn, SC | S26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121879097) | 2d ago |
 | **Robert Bosch Venture Capital** | Software Engineering Intern/Co-op | Simpsonville, SC | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121879097?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **ABC Fitness** | Software Engineer Intern | Frisco, TX | F26 | [Apply](https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Software-Engineer---Intern_REQ-1246?utm_source=Simplify&ref=Simplify) | 4d ago |
@@ -531,13 +531,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7835625) | today |
 | **Johnson & Johnson** | Digital Art and Design Co-Op | Irving, Texas, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Digital-Art-and-Design-Co-Op_R-066703) | today |
-| **GE Healthcare** | Intern | Remote | F26 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Intern_R4039397-1) | today |
 | **Jabil** | Programmer Analyst Intern | St. Petersburg, FL | F26 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Progammer-Analyst-I_J2439588?utm_source=Simplify&ref=Simplify) | today |
 | **Jumio** | Data Intern | Remote in USA | F26 | [Apply](https://job-boards.greenhouse.io/jumio/jobs/4686693005?utm_source=Simplify&ref=Simplify) | today |
 | **City of Austin** | Aviation – Undergraduate Intern - Information Systems | Austin, TX | F26 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Undergraduate-Intern--Information-Systems--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR103632?utm_source=Simplify&ref=Simplify) | today |
 | **Emerson Electric** | Digital Hardware Intern | Austin, TX | F26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024148?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - Canada | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7811321) | today |
 | 🔥 **Twilio** | Developer Advocacy Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7728956) | 1d ago |
 | **Fiserv** | Project Management- Summer Internship | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Internship---Product-Project-Management_R-10378800) | 1d ago |
 | **Leidos** | Material Control Summer Intern | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00181120-1) | 1d ago |
