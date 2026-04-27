@@ -18135,8 +18135,68 @@
       "industry": "other",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "05a090fd05a9973f2b39357a8f04444304b479a0420e96e317be7684ba9dca9b",
+      "company": "Iovance Biotherapeutics",
+      "company_slug": "iovance-biotherapeutics",
+      "role": "Portfolio Strategy & Data Analytics Intern",
+      "category": "data_science",
+      "locations": [
+        "San Carlos, CA"
+      ],
+      "apply_url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5159195008?utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-23",
+      "date_last_verified": "2026-04-19",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
+    },
+    {
+      "id": "cfa91c49a892cece4bfe33679ddd4f1b8a21e0a7f4475c87d28f1dd6602c5f24",
+      "company": "Akuna Capital",
+      "company_slug": "akuna-capital",
+      "role": "Development Internship - C++, Summer 2026",
+      "category": "other",
+      "locations": [
+        "Shanghai, China"
+      ],
+      "apply_url": "https://www.akunacapital.com/careers/job/7756608/?gh_jid=7756608",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-04-19",
+      "date_last_verified": "2026-04-19",
+      "source": "greenhouse_api",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "summer_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "fintech",
+      "preferred_class_years": [
+        "phd"
+      ],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-04-26T03:47:17.003070Z",
+  "last_updated": "2026-04-27T03:52:09.144660Z",
   "total_open": 0
 }
