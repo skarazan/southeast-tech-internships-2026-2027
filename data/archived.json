@@ -19025,8 +19025,66 @@
       "industry": "banking",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "af58e3f09e4e6f2378ffe97a214c0faab9079743613266c7dbc9d82f94910794",
+      "company": "DriveWealth",
+      "company_slug": "drivewealth",
+      "role": "AI Consulting Associate Program \u2013 Engineering Intern - AI CAP",
+      "category": "other",
+      "locations": [
+        "NYC"
+      ],
+      "apply_url": "https://boards.greenhouse.io/drivewealth/jobs/7673413003?utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-20",
+      "date_last_verified": "2026-03-28",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
+    },
+    {
+      "id": "b901df5b8d43f4c1ea2fcec174000a594e3733dd237599cd15c70d1ccc1e7ad8",
+      "company": "DriveWealth",
+      "company_slug": "drivewealth",
+      "role": "AI Consulting Associate Program \u2013 Product Intern - AI CAP",
+      "category": "other",
+      "locations": [
+        "NYC"
+      ],
+      "apply_url": "https://boards.greenhouse.io/drivewealth/jobs/7673409003?utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-03-20",
+      "date_last_verified": "2026-03-28",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-04-29T03:54:25.897646Z",
+  "last_updated": "2026-04-29T14:29:30.964849Z",
   "total_open": 0
 }
