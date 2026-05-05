@@ -1024,8 +1024,8 @@
     "last_checked": "2026-05-04"
   },
   "cfa91c49a892cece4bfe33679ddd4f1b8a21e0a7f4475c87d28f1dd6602c5f24": {
-    "consecutive_failures": 6,
-    "last_checked": "2026-04-27"
+    "consecutive_failures": 7,
+    "last_checked": "2026-05-05"
   },
   "868baf54d1c4b4e31665f63540ef2cf525123883af84c52c21469e657aedc2ed": {
     "consecutive_failures": 2,
@@ -1893,7 +1893,7 @@
   },
   "9f7e479a1028eacb30224441d294dfdb1581fd937f4609ec88c7a6c24680f8c2": {
     "consecutive_failures": 0,
-    "last_checked": "2026-05-04"
+    "last_checked": "2026-05-05"
   },
   "0266d5108bc45ca5c5d2ccb51ad16af8379d4a345c7a27a88642055a7a632469": {
     "consecutive_failures": 0,
@@ -1909,7 +1909,7 @@
   },
   "f65881eec2f73976c0eb11f0d1d3cc4161afd853a0b980c6ea82d3a1bad8f24e": {
     "consecutive_failures": 0,
-    "last_checked": "2026-05-04"
+    "last_checked": "2026-05-05"
   },
   "f8733340ebc730ed0de6129205841a65ba22dc4e854e85e9957fbdea96f62f02": {
     "consecutive_failures": 0,
@@ -3208,11 +3208,11 @@
     "last_checked": "2026-05-03"
   },
   "dad95cd4da1970e4b8ac91a0cb00207c5654bdddf2cb1e772cb93bc0d5fa91ad": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-05"
   },
   "71b0e87d0ff8845b0fcb8737266bf4349606d92d91cab3ad4599b9e7b0d2883f": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-05"
   },
   "6f4a7f561047b73d20700af4b02c430cc4e533afe236148d76c470d3a803020d": {
@@ -3460,15 +3460,15 @@
     "last_checked": "2026-05-05"
   },
   "7c03ae77307d7aed5e0e1d64b7e71e39f28bcb26fd936685810c3c35322955da": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-05"
   },
   "80a617ff79e55de0f10b8a376c7d976ff2654d4957fb3d3c055964afd0d9a326": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-05"
   },
   "0a6904c2484a923ac8c48cccc7c4ebc74bb90391a4d16a1539eb40c9efa9d785": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-05"
   }
 }
