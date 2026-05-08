@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 08, 2026 at 09:20 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 08, 2026 at 02:43 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -18,12 +18,12 @@ Use this repo to discover and track **tech internships** across software enginee
 |----------|-----------|
 | 💻 [Software Engineering](#-software-engineering) | 147 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 38 |
-| 📊 [Data Science & Analytics](#-data-science--analytics) | 71 |
+| 📊 [Data Science & Analytics](#-data-science--analytics) | 72 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 12 |
-| 🔹 [Other](#-other) | 520 |
+| 🔹 [Other](#-other) | 523 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 61 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 147 |
-| **Total** | **788** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 148 |
+| **Total** | **792** |
 
 ---
 
@@ -47,6 +47,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Sharecare** | Data Quality Intern | Atlanta, GA | F26 | [Apply](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874?utm_source=Simplify&ref=Simplify) | today |
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **Hermeus** | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 1d ago |
 | **Hermeus** | GNC Engineering Intern (Controls) - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 1d ago |
 | **PrizePicks** | Customer Insights Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7726443003) | 1d ago |
@@ -476,6 +477,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Chevron** | 2026-2027 Information Technology – Information and Analytics – InternHouston, Texas | Houston, Texas | F26 | [Apply](https://careers.chevron.com/job/houston/2026-2027-information-technology-information-and-analytics-intern/38138/94859812432) | today |
 | **Sharecare** | Data Analyst Intern | Atlanta, GA | F26 | [Apply](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Analyst-Intern---Remote_R-101873?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Mercury Insurance** | Marketing Data Analyst Intern | Remote in USA | F26 | [Apply](https://careers-mercuryinsurance.icims.com/jobs/6417/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Altar'd State** | IT Analytics Intern | Knoxville, TN | F26 | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Summer-2026-IT-Analytics-Intern_SOSJ10504?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -578,6 +580,9 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Sharecare** | Data Quality Intern | Atlanta, GA | F26 | [Apply](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874?utm_source=Simplify&ref=Simplify) | today |
 | **American Bureau of Shipping** | Digital Intern | Knoxville, TN | F26 | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4336?utm_source=Simplify&ref=Simplify) | today |
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
+| **GE Healthcare** | Intern | Remote | F26 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Intern_R4039397-1) | today |
+| **Greenworks** | Product Management Intern | Huntersville, NC | F26 | [Apply](https://job-boards.greenhouse.io/greenworkssunriseglobalmarketing/jobs/5990702004?utm_source=Simplify&ref=Simplify) | today |
 | **Sezzle** | Product Marketing Intern 🔒 | Remote in USA | F26 | 🔒 Closed | today |
 | **Cresta** | Data Science Intern - Customer Success 🔒 | Remote in USA | F26 | 🔒 Closed | today |
 | **Hermeus** | GNC Engineering Intern (Controls) - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 1d ago |
