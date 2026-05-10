@@ -3380,31 +3380,31 @@
     "last_checked": "2026-05-10"
   },
   "d5d5196b4a35eea447fddff1b8c9effbc8c8cfbf587e531b873e314b7bfee409": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "d0fc1efa7fe8bf428ec870e966ba8f724221f1cc15b8c8d90db086f2655ba20f": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "0e52532b53dac2cbf1689a6cd0e7e75dcdf904fe7501b8592514d07104bf7ae5": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "5927ca4661949711694fcb81d1e6244bbce7d973a45ac1dfbefae57ac0723655": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "a7b2e9ce75ce0fd6dcaf641c9df6144b5735a231b7f0eb66c73b52750100cbe8": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "a0fa317f7fb70149bbb06a7acc5266bf08601c0daf6fa52d9b58fc2febcd7372": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "92b5ad7b6bfd87cafc5b52bf19ddea851efcdf07368aed898b6e76628f1764a5": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "59f8b8816a1759a3bc0fdefd244803737ac1279b6d5ea3035eeab1a5e2e2e17f": {
@@ -3620,7 +3620,7 @@
     "last_checked": "2026-05-10"
   },
   "a7eec48dafaaafc3282f4c4d01545299df4668357df9a429c589b3629ad66566": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "last_checked": "2026-05-10"
   },
   "574a130b98fb9ae10e729e12dd4364fd720d4e502e2672e1a8acb3eaa9ef1f5e": {
@@ -3752,11 +3752,11 @@
     "last_checked": "2026-05-09"
   },
   "9067d48d6e494ec5b08172f76977e5e2186a3d1b8427b488a54e521b8a6824b8": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "4fbfd40528f47b172723c779128544dfc2eb624bff82f554c987b69da3b72f35": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-10"
   },
   "a4ce69264bbf023890aeb9b95a61193b26cf2061112c3ecb858183ff9f961396": {
