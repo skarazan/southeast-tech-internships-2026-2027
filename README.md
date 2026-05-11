@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 10, 2026 at 11:15 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 11, 2026 at 05:06 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 36 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 72 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 13 |
-| 🔹 [Other](#-other) | 522 |
+| 🔹 [Other](#-other) | 523 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 61 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 147 |
-| **Total** | **790** |
+| **Total** | **791** |
 
 ---
 
@@ -46,6 +46,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **Sharecare** | Data Quality Intern | Atlanta, GA | F26 | [Apply](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874?utm_source=Simplify&ref=Simplify) | 3d ago |
 | **Hermeus** | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 4d ago |
 | **Hermeus** | GNC Engineering Intern (Controls) - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 4d ago |
@@ -71,7 +72,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Hermeus** | Mission Systems Platform Intern - Summer/Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/86fd77a9-6498-43df-bfe0-2159aa6933db) | 1w ago |
 | **Hermeus** | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | 1w ago |
 | **Fiserv** | Summer Intern - Data Engineer | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654) | 1w ago |
-| **Fiserv** | Technology - Summer Intern | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10388735) | 1w ago |
 | **Fiserv** | Intern - Data Engineer | Alpharetta, GA | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Hermeus** | Avionics Engineering Intern - Summer/Fall 2026 🔒 | Atlanta, GA | F26 | 🔒 Closed | 1w ago |
 | **Hermeus** | Software Engineering Intern (Mission Systems Software) - Summer & Fall 2026 🔒 | Atlanta, GA | F26 | 🔒 Closed | 1w ago |
@@ -575,6 +575,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
+| **GE Healthcare** | Intern | Remote | F26 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Intern_R4039397-1) | today |
 | **Inogen** | IT Mobile and Web Intern | Plano, TX | F26 | [Apply](https://jobs.jobvite.com/inogen/job/oTz6zfwR?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Genuine Parts Company** | System Support InternBirmingham, AL\|Part time\| | Birmingham, AL | F26 | [Apply](https://jobs.genpt.com/job/birmingham/system-support-intern/505/94521430496) | 2d ago |
 | **Centific** | Research Intern - Applied Reinforcement Learning | Remote in USA | F26 | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning_JR106882?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -650,7 +652,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔥 **Samsara** | Digital Innovation Co-Op – Supply Chain | Remote - US | F26 | [Apply](https://www.samsara.com/company/careers/roles/7839203?gh_jid=7839203) | 1w ago |
 | 🔥 **Intel** | SOC Design Engineering Intern | US, Texas, Austin | F26 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/SOC-Design-Engineering-Intern_JR0280615) | 1w ago |
 | **Leidos** | Engineering Intern – High School | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---High-School_R-00182018) | 1w ago |
-| **Fiserv** | Technology - Summer Intern | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10388735) | 1w ago |
 | **Hermeus** | Avionics Engineering Intern - Summer/Fall 2026 🔒 | Atlanta, GA | F26 | 🔒 Closed | 1w ago |
 | **Fiserv** | Data Analysis - Summer Intern | Alpharetta, Georgia | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Data-Analysis---Summer-Intern_R-10390248) | 1w ago |
 | **Homebase** | Forward Deployed Engineering Intern - AI-Native | Houston, TX, SF | F26 | [Apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2/application?utm_source=Simplify&ref=Simplify) | 1w ago |
