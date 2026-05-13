@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 13, 2026 at 04:09 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 13, 2026 at 10:04 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 33 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 73 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 13 |
-| 🔹 [Other](#-other) | 527 |
+| 🔹 [Other](#-other) | 526 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 61 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 148 |
-| **Total** | **795** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 147 |
+| **Total** | **794** |
 
 ---
 
@@ -46,7 +46,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **PrizePicks** | Business Operations Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7727094003) | 2d ago |
 | **RIB Software** | Software Engineer Intern | Alpharetta, GA | F26 | [Apply](https://aveva.wd3.myworkdayjobs.com/RIB_Careers/job/Alpharetta-Georgia-United-States-of-America/Software-Engineering-Intern_R013997?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Sharecare** | Data Quality Intern | Atlanta, GA | F26 | [Apply](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874?utm_source=Simplify&ref=Simplify) | 5d ago |
@@ -578,7 +577,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Cadence Design Systems** | Product Engineer Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineer-Intern_R54702) | today |
-| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **AutoNation** | Automotive Parts Ecommerce Intern | Fort Lauderdale, FL | F26 | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Headquarters/Automotive-Parts-eCommerce-Intern_JR2026141745?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **EnergyCap** | Product Operations Associate Intern | Remote in USA | F26 | [Apply](https://ats.rippling.com/energycap-external-career-page/jobs/e448abdb-dbef-4918-9cd9-0987fb413f00?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Inogen** | IT Data & AI Intern | Plano, TX | F26 | [Apply](https://jobs.jobvite.com/inogen/job/o8X7zfwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | 1d ago |
