@@ -1,12 +1,8 @@
-# Atlanta Tech Internships 🚀
+# Fall & Winter 2026 Tech Internships — NYC & Remote
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 17, 2026 at 08:57 AM EST
->
-> Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
->
-> Built and maintained by [Carter](https://github.com/ctsc)
+Filtered from [ctsc/southeast-tech-internships-2026-2027](https://github.com/ctsc/southeast-tech-internships-2026-2027). Showing only **Fall & Winter** internships in **NYC** or **Remote USA**. No PhD roles. Auto-synced every 5 min with Discord notifications.
 
-Use this repo to discover and track **tech internships** across software engineering, ML/AI, data science, and more.
+[![Discord](https://img.shields.io/badge/Live_Demo-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/GfSRFugKd)
 
 [View all tracked companies](COMPANIES.md)
 
