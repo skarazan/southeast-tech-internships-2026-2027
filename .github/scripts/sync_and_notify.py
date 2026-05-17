@@ -109,6 +109,7 @@ deduped = [e for e in added if job_hash(e) not in all_known]
 skipped = len(added) - len(deduped)
 print(f"New: {len(added)}, After dedup: {len(deduped)} (skipped {skipped})")
 
+os.makedirs(os.path.dirname(LOCAL_PATH), exist_ok=True)
 with open(LOCAL_PATH, "w") as f:
     json.dump(filtered, f, indent=2)
 
