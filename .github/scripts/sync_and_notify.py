@@ -103,15 +103,17 @@ if deduped:
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(sorted(notified), f)
 
+    MAX_SHOW = 5
     lines = []
-    for e in deduped[:20]:
+    for e in deduped[:MAX_SHOW]:
         locs = ", ".join(e.get("locations", []))
         if e.get("remote_friendly"):
             locs = f"{locs} (Remote)" if locs else "Remote"
         url = e.get("apply_url", "")
         lines.append(f"🆕 **{e['company']}** — {e['role']}\n📍 {locs}\n🔗 <{url}>")
-    if len(deduped) > 20:
-        lines.append(f"...and {len(deduped) - 20} more new listings")
+    extra = len(deduped) - len(lines)
+    if extra > 0:
+        lines.append(f"...and **{extra} more** — check the README")
     message = "@everyone\n\n" + "\n\n".join(lines)
     with open(".github/scripts/discord_message.txt", "w") as f:
         f.write(message)
