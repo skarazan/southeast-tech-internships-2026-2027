@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 16, 2026 at 11:11 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 17, 2026 at 03:42 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 35 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 76 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 13 |
-| 🔹 [Other](#-other) | 531 |
+| 🔹 [Other](#-other) | 530 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 61 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 149 |
-| **Total** | **806** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 150 |
+| **Total** | **805** |
 
 ---
 
@@ -46,6 +46,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **OTR Solutions** | Product Analyst Intern 🔒 | Roswell, GA | F26 | 🔒 Closed | 1d ago |
 | **Altamira Technologies** | Software Development Intern | Augusta, GA | F26 | [Apply](https://jobs.jobvite.com/altamiracorps/job/oDD8zfwH?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Cisive** | Software Development Intern | New Mexico, Washington, Kansas and 52 more | F26 | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -585,8 +586,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R54747-1) | today |
 | **Ensemble Health Partners** | Engineering Excellence Engineer Intern | Remote in USA | F26 | [Apply](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330?utm_source=Simplify&ref=Simplify) | today |
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
+| **Ancestry** | Graduate Research Co-op - AI & Representation Learning | Remote in USA | F26 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Graduate-Research-Co-op---AI---Representation-Learning_R003340?utm_source=Simplify&ref=Simplify) | today |
 | **Genuine Parts Company** | Engineering InternPlano, TX\|Part time\| | Plano, TX | F26 | [Apply](https://jobs.genpt.com/job/plano/engineering-intern/505/95139171040) | 1d ago |
 | **SailPoint** | Enterprise Identity & IT Security Intern | Austin, TX | F26 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/Enterprise-Identity---IT-Security---Intern_R013417?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CAE** | Engineering Co-op | Tampa, FL | F26 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -695,12 +697,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔥 **Twilio** | Go-to-market Analyst Intern (June 22nd start, 12 weeks) | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7823588) | 3w ago |
 | **Roadie** | UX Design Intern- Summer 2026 | REMOTE | S26 | [Apply](https://job-boards.greenhouse.io/roadie/jobs/8485879002) | 3w ago |
 | **S&P Global** | Research Analyst Intern - Fuels & Chemicals (Early Career) | Houston, TX | F26 | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1) | 3w ago |
-| **IEM** | Application Engineering Tools & Resource Catalog Intern | Franklin, TN | F26 | [Apply](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4231416009?utm_source=Simplify&ref=Simplify) | 3w ago |
-| **IEM** | Productivity Data & Industrial Events Intern | Franklin, TN | F26 | [Apply](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4231433009?utm_source=Simplify&ref=Simplify) | 3w ago |
 | **Emerson Electric** | ACC Scholars Hardware Technician Apprentice Intern - Test & Measurement | Austin, TX | F26 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004762?utm_source=Simplify&ref=Simplify) | 3w ago |
 | 🔥 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7835625) | 3w ago |
 | **Leidos** | Program Coordination Intern | Orlando, FL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Program-Coordination-Intern_R-00181532) | 3w ago |
 | **Leidos** | Engineering and Business Process Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Engineering-and-Business-Process-Intern_R-00181548) | 3w ago |
+| **IEM** | Application Engineering Tools & Resource Catalog Intern 🔒 | Franklin, TN | F26 | 🔒 Closed | 3w ago |
+| **IEM** | Productivity Data & Industrial Events Intern 🔒 | Franklin, TN | F26 | 🔒 Closed | 3w ago |
 | **Johnson & Johnson** | Digital Art and Design Co-Op | Irving, Texas, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Digital-Art-and-Design-Co-Op_R-066703) | 3w ago |
 | **Jabil** | Programmer Analyst Intern | St. Petersburg, FL | F26 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Progammer-Analyst-I_J2439588?utm_source=Simplify&ref=Simplify) | 3w ago |
 | **City of Austin** | Aviation – Undergraduate Intern - Information Systems | Austin, TX | F26 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Undergraduate-Intern--Information-Systems--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR103632?utm_source=Simplify&ref=Simplify) | 3w ago |
