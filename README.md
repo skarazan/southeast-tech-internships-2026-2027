@@ -1,8 +1,12 @@
-# Fall & Winter 2026 Tech Internships — NYC & Remote
+# Atlanta Tech Internships 🚀
 
-Filtered from [ctsc/southeast-tech-internships-2026-2027](https://github.com/ctsc/southeast-tech-internships-2026-2027). Showing only **Fall & Winter** internships in **NYC** or **Remote USA**. No PhD roles. Auto-synced every 5 min with Discord notifications.
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 17, 2026 at 02:29 PM EST
+>
+> Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
+>
+> Built and maintained by [Carter](https://github.com/ctsc)
 
-[![Discord](https://img.shields.io/badge/Live_Demo-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/GfSRFugKd)
+Use this repo to discover and track **tech internships** across software engineering, ML/AI, data science, and more.
 
 [View all tracked companies](COMPANIES.md)
 
@@ -16,10 +20,10 @@ Filtered from [ctsc/southeast-tech-internships-2026-2027](https://github.com/cts
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 35 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 76 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 13 |
-| 🔹 [Other](#-other) | 529 |
+| 🔹 [Other](#-other) | 530 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 59 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 149 |
-| **Total** | **803** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 150 |
+| **Total** | **804** |
 
 ---
 
@@ -42,6 +46,7 @@ Filtered from [ctsc/southeast-tech-internships-2026-2027](https://github.com/cts
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **OTR Solutions** | Product Analyst Intern 🔒 | Roswell, GA | F26 | 🔒 Closed | 1d ago |
 | **Altamira Technologies** | Software Development Intern | Augusta, GA | F26 | [Apply](https://jobs.jobvite.com/altamiracorps/job/oDD8zfwH?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Cisive** | Software Development Intern | New Mexico, Washington, Kansas and 52 more | F26 | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -583,7 +588,8 @@ Filtered from [ctsc/southeast-tech-internships-2026-2027](https://github.com/cts
 |---------|------|----------|--------|-------|--------|
 | **Ensemble Health Partners** | Engineering Excellence Engineer Intern | Remote in USA | F26 | [Apply](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330?utm_source=Simplify&ref=Simplify) | today |
 | **Ancestry** | Graduate Research Co-op - AI & Representation Learning | Remote in USA | F26 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Graduate-Research-Co-op---AI---Representation-Learning_R003340?utm_source=Simplify&ref=Simplify) | today |
-| **Cadence Design Systems** | Software Intern | Austin, TX | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Intern_R54747?utm_source=Simplify&ref=Simplify) | today |
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
+| **Cadence Design Systems** | Software Intern | AUSTIN | F26 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R54747-1) | today |
 | **Genuine Parts Company** | Engineering InternPlano, TX\|Part time\| | Plano, TX | F26 | [Apply](https://jobs.genpt.com/job/plano/engineering-intern/505/95139171040) | 1d ago |
 | **SailPoint** | Enterprise Identity & IT Security Intern | Austin, TX | F26 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/Enterprise-Identity---IT-Security---Intern_R013417?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CAE** | Engineering Co-op | Tampa, FL | F26 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040?utm_source=Simplify&ref=Simplify) | 1d ago |
