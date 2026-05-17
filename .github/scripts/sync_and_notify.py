@@ -17,23 +17,39 @@ def is_phd(entry):
     role = (entry.get("role") or "").lower()
     return "phd" in role or "ph.d" in role or entry.get("requires_advanced_degree", False)
 
+NON_US_KEYWORDS = ("uk", "united kingdom", "london", "england", "scotland",
+                    "ireland", "canada", "india", "europe", "germany", "munich",
+                    "toronto", "chennai", "hyderabad", "telangana", "tamil nadu")
+
 def is_nyc_or_remote_usa(entry):
     locations = entry.get("locations", [])
     has_nyc = False
     has_remote_usa = False
+    has_non_us = False
 
     for loc in locations:
         l = loc.lower()
-        if any(kw in l for kw in ("uk", "united kingdom", "london", "england", "scotland")):
+        if any(kw in l for kw in NON_US_KEYWORDS):
+            has_non_us = True
             continue
-        if any(kw in l for kw in ("new york", "nyc", "manhattan", "brooklyn")):
+        if any(kw in l for kw in ("new york", "nyc", "brooklyn")):
+            has_nyc = True
+        if "manhattan" in l and "beach" not in l:
             has_nyc = True
         if "remote" in l:
-            if any(kw in l for kw in ("uk", "canada", "united kingdom", "london", "india", "europe")):
-                continue
-            has_remote_usa = True
+            # only accept remote with US qualifiers or bare "Remote"
+            if any(kw in l for kw in ("us", "usa", "united states")):
+                has_remote_usa = True
+            elif l.strip() in ("remote", "6314 remote", "teleworker us"):
+                has_remote_usa = True
+            # "Remote - Florida", "Remote - Virginia" etc. are US
+            elif l.startswith("remote -") or l.startswith("remote in"):
+                if not any(kw in l for kw in NON_US_KEYWORDS):
+                    has_remote_usa = True
 
-    if entry.get("remote_friendly", False):
+    # Only trust remote_friendly if listing has at least one US location
+    # and no non-US locations that suggest it's international
+    if entry.get("remote_friendly", False) and has_nyc:
         has_remote_usa = True
 
     return has_nyc or has_remote_usa
