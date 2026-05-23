@@ -4416,11 +4416,11 @@
     "last_checked": "2026-05-23"
   },
   "00de3c4456470e5c8b6394fe1c691384055f861844ad78812fd7d77aaf564cab": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-05-23"
   },
   "5269eed344d486f842961193fdf44cd66a8f365fe84163b1d8d8fddae5d837a2": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-05-23"
   }
 }
