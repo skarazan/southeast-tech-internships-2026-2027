@@ -4518,5 +4518,13 @@
   "ae963b7b58cae318e382879f3b4ff9310a9303f35f9fc7d75971f106e345ed74": {
     "consecutive_failures": 2,
     "last_checked": "2026-05-27"
+  },
+  "8e447f3ef197a6bb29ead2f4176350a4bd931ab05997e800a6fde2090da1eb81": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-05-27"
+  },
+  "da657b338817134a93e43af571b5274da371032761047f0937a8abd98b8a3670": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-05-27"
   }
 }
