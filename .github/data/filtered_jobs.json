@@ -13395,5 +13395,41 @@
       "masters"
     ],
     "listing_type": "internship"
+  },
+  {
+    "id": "eca2889edc1c81414864fcfd182a26da062a0960e752ea98d253c02722e0b015",
+    "company": "60decibelsinc",
+    "company_slug": "60decibelsinc",
+    "role": "Internship Senior Signal Associate",
+    "category": "other",
+    "locations": [
+      "London",
+      "UK",
+      "Bengaluru",
+      "Karnataka",
+      "India",
+      "NYC"
+    ],
+    "apply_url": "https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006?utm_source=Simplify&ref=Simplify",
+    "sponsorship": "unknown",
+    "requires_us_citizenship": false,
+    "is_faang_plus": false,
+    "requires_advanced_degree": false,
+    "graduate_friendly": false,
+    "remote_friendly": false,
+    "open_to_international": false,
+    "date_added": "2026-05-28",
+    "date_last_verified": "2026-05-28",
+    "source": "github_monitor",
+    "status": "open",
+    "tech_stack": [],
+    "season": "fall_2026",
+    "start_date": null,
+    "end_date": null,
+    "industry": "other",
+    "preferred_class_years": [
+      "senior"
+    ],
+    "listing_type": "internship"
   }
 ]
