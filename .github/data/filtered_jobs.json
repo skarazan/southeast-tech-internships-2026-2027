@@ -13461,5 +13461,34 @@
     "industry": "aerospace",
     "preferred_class_years": [],
     "listing_type": "internship"
+  },
+  {
+    "id": "5e5290d18037a07d9210a05c1a0965e0b27cdfbf86d7d12fc21d7676b6a575c8",
+    "company": "HubSpot",
+    "company_slug": "hubspot",
+    "role": "Creator Partnerships Associate Co-op",
+    "category": "other",
+    "locations": [
+      "Remote - USA"
+    ],
+    "apply_url": "https://www.hubspot.com/careers/jobs/7589749?gh_jid=7589749",
+    "sponsorship": "unknown",
+    "requires_us_citizenship": false,
+    "is_faang_plus": true,
+    "requires_advanced_degree": false,
+    "graduate_friendly": false,
+    "remote_friendly": false,
+    "open_to_international": false,
+    "date_added": "2026-05-29",
+    "date_last_verified": "2026-05-29",
+    "source": "greenhouse_api",
+    "status": "open",
+    "tech_stack": [],
+    "season": "fall_2026",
+    "start_date": null,
+    "end_date": null,
+    "industry": "enterprise",
+    "preferred_class_years": [],
+    "listing_type": "internship"
   }
 ]
