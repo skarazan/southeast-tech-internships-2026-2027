@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: May 29, 2026 at 10:55 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: May 30, 2026 at 03:46 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -22,7 +22,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 16 |
 | 🔹 [Other](#-other) | 568 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 69 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 153 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 154 |
 | **Total** | **855** |
 
 ---
@@ -46,6 +46,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **PrizePicks** | Market Intelligence Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7753475003) | 1d ago |
 | **KION Group** | Software Engineer Intern | Rochester, NY, Grand Rapids and 7 more | F26 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762-1?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Nationwide Children's Hospital** | IT R&1 Data Science Intern | Columbus, OH | F26 | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-R-I-Data-Science-Intern_R-25866-1?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -600,6 +601,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **Leidos** | IT Asset Administrator Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/IT-Asset-Administrator_R-00183578) | 1d ago |
 | 🔥 **HubSpot** | Creator Partnerships Associate Co-op | Remote - USA | F26 | [Apply](https://www.hubspot.com/careers/jobs/7589749?gh_jid=7589749) | 1d ago |
 | **PrizePicks** | Market Intelligence Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7753475003) | 1d ago |
@@ -873,7 +875,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Ryder System** | Data Services Intern | Miami, FL | F26 | [Apply](https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Miami-FL-33178/Data-Services-Intern_R164266?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **Ryder System** | AI Intern | Florida | F26 | [Apply](https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Remote-FL/AI-Intern_R167426-1?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **Construction Resources** | Web / Full-Stack Development Intern | Decatur, GA | F26 | [Apply](https://job-boards.greenhouse.io/constructionresources/jobs/5171622008?utm_source=Simplify&ref=Simplify) | 1mo ago |
-| **Aledade** | Intern - AI Researcher | Remote in USA | F26 | [Apply](https://jobs.lever.co/aledade/c60c9ff9-7011-43a0-802c-d3c3d91b0291/apply?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **Xylem** | Product Manager Intern | Morrisville, NC | F26 | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/Product-Manager-Intern_R47115?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **ENOVIS** | Enabling Technology Marketing Intern | Austin, TX | F26 | [Apply](https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Texas-Austin/Enabling-Technology-Marketing-Intern_R0032633?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **DNV** | Data Science Intern | Houston, TX | F26 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6419?utm_source=Simplify&ref=Simplify) | 1mo ago |
@@ -885,6 +886,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Continental** | Intern - Sea Freight Logistics, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000119185967) | 1mo ago |
 | **Rocket Mortgage** | Product Development Intern | Lewisville, TX | F26 | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lewisville-TX/Product-Development-Intern---Summer-2026_R-081999?utm_source=Simplify&ref=Simplify) | 1mo ago |
 | **AssetMark** | Data Intern | Charlotte, NC | F26 | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Data-Intern_Req-003751?utm_source=Simplify&ref=Simplify) | 1mo ago |
+| **Aledade** | Intern - AI Researcher 🔒 | Remote in USA | F26 | 🔒 Closed | 1mo ago |
 | **Actian** | Product Engineer Intern 🔒 | Remote in USA | F26 | 🔒 Closed | 1mo ago |
 | **Continental** | Intern - Customs Compliance, Year-Round | Fort Mill, SC | F26 | [Apply](https://jobs.smartrecruiters.com/Continental/744000118861877) | 1mo ago |
 | 🔥 **Twilio** | Analyst Relations Intern | Remote - US | F26 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7748959) | 1mo ago |
