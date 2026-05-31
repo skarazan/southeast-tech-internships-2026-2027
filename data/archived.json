@@ -34119,8 +34119,66 @@
       "industry": "banking",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "5269eed344d486f842961193fdf44cd66a8f365fe84163b1d8d8fddae5d837a2",
+      "company": "FedEx",
+      "company_slug": "fedex",
+      "role": "Intern-Operations & Clerical",
+      "category": "other",
+      "locations": [
+        "Unknown"
+      ],
+      "apply_url": "https://careers.fedex.com/intern-operations-clerical/job/3B26BF84CF80F46B1ACB9BFDC441015B",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-05-21",
+      "date_last_verified": "2026-05-23",
+      "source": "scrape",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "logistics",
+      "preferred_class_years": [],
+      "listing_type": "internship"
+    },
+    {
+      "id": "d9cf6bc670794f96bf3d51a9324cd26b312cacd8f5ca3630edb191ee61310bab",
+      "company": "Coupang",
+      "company_slug": "coupang",
+      "role": "Machine Learning Intern - AQ",
+      "category": "ml_ai",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "apply_url": "https://www.coupang.jobs/en/jobs/?gh_jid=7954074&utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-05-23",
+      "date_last_verified": "2026-05-23",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-05-30T03:55:45.859509Z",
+  "last_updated": "2026-05-31T04:18:03.429002Z",
   "total_open": 0
 }
