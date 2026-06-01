@@ -34177,8 +34177,66 @@
       "industry": "other",
       "preferred_class_years": [],
       "listing_type": "internship"
+    },
+    {
+      "id": "00de3c4456470e5c8b6394fe1c691384055f861844ad78812fd7d77aaf564cab",
+      "company": "Sparksoft",
+      "company_slug": "sparksoft",
+      "role": "Developer Intern",
+      "category": "other",
+      "locations": [
+        "Remote in USA, Maryland"
+      ],
+      "apply_url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5142183007?utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-05-21",
+      "date_last_verified": "2026-05-24",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
+    },
+    {
+      "id": "4afe0aa28a8f94ecd6b3937df1616065783d7435a6edc0c3a8b35e61fbcec5f0",
+      "company": "Celonis",
+      "company_slug": "celonis",
+      "role": "Engineering Intern",
+      "category": "other",
+      "locations": [
+        "Massachusetts"
+      ],
+      "apply_url": "https://job-boards.greenhouse.io/celonis/jobs/7738538003?gh_jid=7738538003&utm_source=Simplify&ref=Simplify",
+      "sponsorship": "unknown",
+      "requires_us_citizenship": false,
+      "is_faang_plus": false,
+      "requires_advanced_degree": false,
+      "graduate_friendly": false,
+      "remote_friendly": false,
+      "open_to_international": false,
+      "date_added": "2026-05-21",
+      "date_last_verified": "2026-05-24",
+      "source": "github_monitor",
+      "status": "closed",
+      "tech_stack": [],
+      "season": "fall_2026",
+      "start_date": null,
+      "end_date": null,
+      "industry": "other",
+      "preferred_class_years": [],
+      "listing_type": "internship"
     }
   ],
-  "last_updated": "2026-05-31T04:18:03.429002Z",
+  "last_updated": "2026-06-01T04:32:37.328199Z",
   "total_open": 0
 }
