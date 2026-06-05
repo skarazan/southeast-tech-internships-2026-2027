@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: June 05, 2026 at 10:14 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: June 05, 2026 at 03:16 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 40 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 79 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 16 |
-| 🔹 [Other](#-other) | 574 |
+| 🔹 [Other](#-other) | 573 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 69 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 160 |
-| **Total** | **865** |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 159 |
+| **Total** | **864** |
 
 ---
 
@@ -46,7 +46,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **CHEP** | FP&A Business Intelligence Intern | London, UK, Orlando and 3 more | F26 | [Apply](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify) | today |
 | **PrizePicks** | Data Science Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7761731003) | 1d ago |
 | 🔥 **Cisco** | Software Engineer Data/AI/Intelligent Systems Intern - United States | Boston, MA, Seattle and 30 more | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Intern----United-States_2001254?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -618,7 +617,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Hermeus** | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | F26 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | today |
 | **SitusAMC** | AI Software Development Team Intern | Remote in USA | F26 | [Apply](https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---AI-Software-Development-Team_JR02562?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Smithfield Foods** | Research Intern | Jacksonville, NC | F26 | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Rose-Hill-NC/Research-Intern_R-2026-7408?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **PrizePicks** | Data Science Intern - Fall 2026 | Atlanta, Georgia, United States | F26 | [Apply](http://prizepicks.com/position?gh_jid=7761731003) | 1d ago |
