@@ -5012,10 +5012,14 @@
     "last_checked": "2026-06-09"
   },
   "e33c805346a4913eb59f3e1fa6eab8e18413ec62748a4c0f42c55fad3d0968d4": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-06-09"
   },
   "9b9c6fb2b519a79ee01f99a330777196e4ba94e204469ab922f275ccf70cf271": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-06-09"
+  },
+  "fd76d87444d598b29356725de3633fd4de31411b2d037281faa92521798fc5dc": {
     "consecutive_failures": 1,
     "last_checked": "2026-06-09"
   }
