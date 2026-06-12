@@ -5120,6 +5120,18 @@
     "last_checked": "2026-06-12"
   },
   "4f6bb2b39b237ce4ef8744108f76cb3baad5ef93818c2e77b2effa9ece465544": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-06-12"
+  },
+  "7a6c8a5f93263d5c7f5bb5240f66606a5d954bc4dab5a0212f9b8377b792626b": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-06-12"
+  },
+  "41194df487ae614cb6e0113a8c9bd794cddc3b1abacb9881e0e79387bf754221": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-06-12"
+  },
+  "0db34db6e80e229a3e1b3a7517eece7d076087265ff799ff49c2735860bf4135": {
     "consecutive_failures": 1,
     "last_checked": "2026-06-12"
   }
