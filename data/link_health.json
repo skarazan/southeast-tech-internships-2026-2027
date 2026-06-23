@@ -5354,5 +5354,13 @@
   "7973350a73935fc89c34e56227b70a2fd9205294154fdc831eff5a9f9d299090": {
     "consecutive_failures": 2,
     "last_checked": "2026-06-23"
+  },
+  "fbdc0ea725c65fec26a85cb5b7ad285d6bfd4ae86558e922d98476c812d544a1": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-06-23"
+  },
+  "1cf5c60c4e69b8a970e071bbe38ea8c4a12c1a82c78fd2834e40cdd4d394eb08": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-06-23"
   }
 }
