@@ -5720,11 +5720,11 @@
     "last_checked": "2026-07-08"
   },
   "9cb1220674bb195a05e2b38e702e47d9d0a63400e1f3e289e49818262924d632": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-07-08"
   },
   "c131c938babc45c609ccb9f38177ccc1a39ffdba923a2086eaa4dce752a214f0": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-07-08"
   }
 }
