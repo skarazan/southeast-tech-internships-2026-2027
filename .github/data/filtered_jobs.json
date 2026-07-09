@@ -13769,15 +13769,44 @@
     "listing_type": "internship"
   },
   {
-    "id": "c291b0629e5ee0cbde93b58e06fb25d5c5576c1dbb451371bffdaf80e656d6b3",
-    "company": "Sony",
-    "company_slug": "sony",
-    "role": "Research Intern on Generative and Protective AI for Content Creation",
+    "id": "a455c4bb2e1b1e9642fc464424eba50a6df6dd3d3d599fc4900a65ec724169c4",
+    "company": "Eulerity",
+    "company_slug": "eulerity",
+    "role": "Digital Marketing Intern - Technical AI & Automation",
     "category": "other",
     "locations": [
-      "Remote - New York"
+      "NYC"
     ],
-    "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "apply_url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006?utm_source=Simplify&ref=Simplify",
+    "sponsorship": "unknown",
+    "requires_us_citizenship": false,
+    "is_faang_plus": false,
+    "requires_advanced_degree": false,
+    "graduate_friendly": false,
+    "remote_friendly": false,
+    "open_to_international": false,
+    "date_added": "2026-07-09",
+    "date_last_verified": "2026-07-09",
+    "source": "github_monitor",
+    "status": "open",
+    "tech_stack": [],
+    "season": "fall_2026",
+    "start_date": null,
+    "end_date": null,
+    "industry": "other",
+    "preferred_class_years": [],
+    "listing_type": "internship"
+  },
+  {
+    "id": "c5edcc85514e62918814cb1682132275b833dd07250cddf1ee228e49e269687f",
+    "company": "Sony",
+    "company_slug": "sony",
+    "role": "Legal Intern",
+    "category": "other",
+    "locations": [
+      "New York"
+    ],
+    "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Legal-Intern_JR-119374",
     "sponsorship": "unknown",
     "requires_us_citizenship": false,
     "is_faang_plus": false,
@@ -13798,15 +13827,15 @@
     "listing_type": "internship"
   },
   {
-    "id": "a455c4bb2e1b1e9642fc464424eba50a6df6dd3d3d599fc4900a65ec724169c4",
-    "company": "Eulerity",
-    "company_slug": "eulerity",
-    "role": "Digital Marketing Intern - Technical AI & Automation",
+    "id": "f66e2cc7bd51e29d9312c411351b6e004f5e028d50806ee60288de36803832e4",
+    "company": "Sony",
+    "company_slug": "sony",
+    "role": "Research Intern on Generative and Protective AI for Content Creation",
     "category": "other",
     "locations": [
-      "NYC"
+      "Remote - Michigan"
     ],
-    "apply_url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006?utm_source=Simplify&ref=Simplify",
+    "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
     "sponsorship": "unknown",
     "requires_us_citizenship": false,
     "is_faang_plus": false,
@@ -13816,7 +13845,7 @@
     "open_to_international": false,
     "date_added": "2026-07-09",
     "date_last_verified": "2026-07-09",
-    "source": "github_monitor",
+    "source": "workday_api",
     "status": "open",
     "tech_stack": [],
     "season": "fall_2026",
