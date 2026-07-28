@@ -8944,10 +8944,10 @@
     "listing_type": "internship"
   },
   {
-    "id": "0aaea8341bfb2309fb062002db9c18dd4a5cd171bfd396cfb5ad6156a6d20cc9",
+    "id": "7d487f7a0edf7bdb4bc4e41969816b054fd1f0a4e69b1c851140627d49e93177",
     "company": "Virtu Financial",
     "company_slug": "virtu-financial",
-    "role": "2027 Internship - Quant Research (Undergrad)",
+    "role": "2027 Internship - Quantitative Researcher (Undergrad)",
     "category": "other",
     "locations": [
       "New York"
@@ -8960,7 +8960,7 @@
     "graduate_friendly": false,
     "remote_friendly": false,
     "open_to_international": false,
-    "date_added": "2026-07-12",
+    "date_added": "2026-07-28",
     "date_last_verified": "2026-07-28",
     "source": "greenhouse_api",
     "status": "open",
@@ -9334,15 +9334,47 @@
     "listing_type": "internship"
   },
   {
-    "id": "f66e2cc7bd51e29d9312c411351b6e004f5e028d50806ee60288de36803832e4",
+    "id": "8d281a67c96c8083e679d4698c7a6c4df424e1ced57b3ac71bdad3c035097728",
+    "company": "Virtu Financial",
+    "company_slug": "virtu-financial",
+    "role": "2027 Internship - Software Engineer",
+    "category": "swe",
+    "locations": [
+      "Austin, TX",
+      "New York"
+    ],
+    "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+    "sponsorship": "unknown",
+    "requires_us_citizenship": false,
+    "is_faang_plus": false,
+    "requires_advanced_degree": false,
+    "graduate_friendly": false,
+    "remote_friendly": false,
+    "open_to_international": false,
+    "date_added": "2026-07-28",
+    "date_last_verified": "2026-07-28",
+    "source": "greenhouse_api",
+    "status": "open",
+    "tech_stack": [],
+    "season": "fall_2026",
+    "start_date": null,
+    "end_date": null,
+    "industry": "fintech",
+    "preferred_class_years": [
+      "senior"
+    ],
+    "listing_type": "internship"
+  },
+  {
+    "id": "c291b0629e5ee0cbde93b58e06fb25d5c5576c1dbb451371bffdaf80e656d6b3",
     "company": "Sony",
     "company_slug": "sony",
     "role": "Research Intern on Generative and Protective AI for Content Creation",
     "category": "other",
     "locations": [
-      "Remote - Michigan"
+      "Remote - New York"
     ],
-    "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "apply_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "sponsorship": "unknown",
     "requires_us_citizenship": false,
     "is_faang_plus": false,
