@@ -1909,7 +1909,7 @@
   },
   "f65881eec2f73976c0eb11f0d1d3cc4161afd853a0b980c6ea82d3a1bad8f24e": {
     "consecutive_failures": 0,
-    "last_checked": "2026-07-27"
+    "last_checked": "2026-07-28"
   },
   "f8733340ebc730ed0de6129205841a65ba22dc4e854e85e9957fbdea96f62f02": {
     "consecutive_failures": 0,
@@ -4616,7 +4616,7 @@
     "last_checked": "2026-07-04"
   },
   "860064c1bdfd15a8f7ad81fac2148f176d3d2841de21ec91089d17a57f331805": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "f8650734b0b9c7a014baf0a49fea2068fd2287659b3d4003c3acc56e96474fe0": {
@@ -5056,15 +5056,15 @@
     "last_checked": "2026-06-11"
   },
   "66dd4bc3a8a7f37f3d37ab2210acbe11a7468a49b86a0311dc5db32420b60ba5": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "8f632c5497695239785f7f5d3f0a63a3ec5c7e36176ca7408e6750111a364f50": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "c3765c8cf903b3624b416e70d5c62bbbff934de64b10508da896627c8931d5c0": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "1272d263d98d0ccad8a0e1cb2b868e5bbc9084493c81de5baef33bc1d2b4da16": {
@@ -5968,7 +5968,7 @@
     "last_checked": "2026-07-28"
   },
   "a542b82e174552f669554bdbf625f5a302dd8bda96b7e676fcd8631b503ff72b": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "980ff96b496ad792d248dc026fd795c5bbd02c4bba221e9d190171b391a10f7e": {
@@ -6032,7 +6032,7 @@
     "last_checked": "2026-07-25"
   },
   "f2e3689a63777c0cb7e71120d95cf5325fff374e51d2a6d827a4f7ff71600281": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-07-28"
   },
   "eadf606aec2e1dad8911a0b0873a2c529c49cf290635c375447e15a770cdde7f": {
@@ -6072,7 +6072,7 @@
     "last_checked": "2026-07-28"
   },
   "f074a719476a6fb0d146fd16ce9df086869704aefce706ae57da5dc95f2a5cfd": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-07-28"
   }
 }
