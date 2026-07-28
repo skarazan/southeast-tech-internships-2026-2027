@@ -6076,6 +6076,10 @@
     "last_checked": "2026-07-28"
   },
   "11d3b234499b0733fc74822f0395718b2877d2960e272f6019ed3e35c663717a": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-07-28"
+  },
+  "b08d2b5099b4b139c17765ba55755c623cd6dca5ebbb33d6dffb0d8cf0c0e4ff": {
     "consecutive_failures": 1,
     "last_checked": "2026-07-28"
   }
