@@ -2828,7 +2828,7 @@
     "last_checked": "2026-08-01"
   },
   "6796e2de2feb739eebea39705594d648f6dfa9174089393f8d6c82ff2c7bb8d4": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "3487bb771b1c35315430aaf2f6905632b6a620f241f1a097358238d5fd486743": {
@@ -5868,19 +5868,19 @@
     "last_checked": "2026-08-01"
   },
   "e4fbe230f366f5c8359ae4e3b93a7e249620b425ca45359c5828334ddd558b99": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "e3590b1352145e04ee95fab9b5a165d53e2972d32acfd5b12df356c703d657b6": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "2f612ef41ca910499cfeafa02b0f7f838255ae814f4ea78c33e034aa5e65d310": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "1ccfb25f4bf9bfedf81ccad029c4fe2383f05f04fb22e5beb68bf92061df4fce": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "0942a6a9ddb5c8f9e2ab5b0d56f11167950c43032bc270a1c482a6f99f3efbcb": {
@@ -6032,7 +6032,7 @@
     "last_checked": "2026-07-25"
   },
   "f2e3689a63777c0cb7e71120d95cf5325fff374e51d2a6d827a4f7ff71600281": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   },
   "eadf606aec2e1dad8911a0b0873a2c529c49cf290635c375447e15a770cdde7f": {
@@ -6068,7 +6068,7 @@
     "last_checked": "2026-07-28"
   },
   "db2c99c509dbd17e822ab55c99484ae4209f8f04667228e18b1582b8abbd27c9": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "last_checked": "2026-08-01"
   },
   "f074a719476a6fb0d146fd16ce9df086869704aefce706ae57da5dc95f2a5cfd": {
@@ -6157,6 +6157,10 @@
   },
   "481f8335488b2d30d3ac9add0d8ec085a177efa1d723b33b8bc50342805161bd": {
     "consecutive_failures": 2,
+    "last_checked": "2026-08-01"
+  },
+  "446ed59bf497901efa20d27fe6b2f70d09b1bc61becfb00f945864f313ec451b": {
+    "consecutive_failures": 1,
     "last_checked": "2026-08-01"
   }
 }
