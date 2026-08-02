@@ -5868,11 +5868,11 @@
     "last_checked": "2026-08-02"
   },
   "e4fbe230f366f5c8359ae4e3b93a7e249620b425ca45359c5828334ddd558b99": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-02"
   },
   "e3590b1352145e04ee95fab9b5a165d53e2972d32acfd5b12df356c703d657b6": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-08-02"
   },
   "2f612ef41ca910499cfeafa02b0f7f838255ae814f4ea78c33e034aa5e65d310": {
@@ -6068,7 +6068,7 @@
     "last_checked": "2026-07-28"
   },
   "db2c99c509dbd17e822ab55c99484ae4209f8f04667228e18b1582b8abbd27c9": {
-    "consecutive_failures": 11,
+    "consecutive_failures": 12,
     "last_checked": "2026-08-02"
   },
   "f074a719476a6fb0d146fd16ce9df086869704aefce706ae57da5dc95f2a5cfd": {
