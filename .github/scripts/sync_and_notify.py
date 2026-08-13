@@ -13,6 +13,23 @@ SIBLING_HASH_URLS = [
     "https://raw.githubusercontent.com/skarazan/Internships-2026/main/.github/data/notified_hashes.json",
 ]
 
+def build_chunks(lines, header="@everyone", limit=1900):
+    """Pack listing blocks into Discord-sized messages without splitting a listing."""
+    chunks = []
+    current = header
+    for line in lines:
+        block = line if len(line) <= limit else line[:limit - 1] + "…"
+        candidate = f"{current}\n\n{block}" if current else block
+        if len(candidate) > limit:
+            chunks.append(current)
+            current = block
+        else:
+            current = candidate
+    if current:
+        chunks.append(current)
+    return chunks
+
+
 def is_phd(entry):
     role = (entry.get("role") or "").lower()
     return "phd" in role or "ph.d" in role or entry.get("requires_advanced_degree", False)
@@ -120,20 +137,17 @@ if deduped:
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(sorted(notified), f)
 
-    MAX_SHOW = 5
     lines = []
-    for e in deduped[:MAX_SHOW]:
+    for e in deduped:
         locs = ", ".join(e.get("locations", []))
         if e.get("remote_friendly"):
             locs = f"{locs} (Remote)" if locs else "Remote"
         url = e.get("apply_url", "")
         lines.append(f"🆕 **{e['company']}** — {e['role']}\n📍 {locs}\n🔗 <{url}>")
-    extra = len(deduped) - len(lines)
-    if extra > 0:
-        lines.append(f"...and **{extra} more** — check the README")
-    message = "@everyone\n\n" + "\n\n".join(lines)
-    with open(".github/scripts/discord_message.txt", "w") as f:
-        f.write(message)
+    chunks = build_chunks(lines)
+    print(f"Posting {len(lines)} listings across {len(chunks)} Discord message(s)")
+    with open(".github/scripts/discord_chunks.json", "w") as f:
+        json.dump(chunks, f)
     with open(output_file, "a") as f:
         f.write("has_changes=true\n")
 else:
