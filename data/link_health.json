@@ -7008,6 +7008,14 @@
     "last_checked": "2026-09-11"
   },
   "3d9cf3f76f5fbdb42eb0db6fa3f894f68086a55dc572abb325b98be5df57488c": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-09-11"
+  },
+  "a934723b6d90016a0807a9acfe8c9588da5f97ade66e30e9308d388f7c84eb7f": {
+    "consecutive_failures": 1,
+    "last_checked": "2026-09-11"
+  },
+  "1db3b84fa4405a10e34c29809c133cd16219aa52c1725d4be977d0fce7b931b9": {
     "consecutive_failures": 1,
     "last_checked": "2026-09-11"
   }
