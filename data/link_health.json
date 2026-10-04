@@ -8424,11 +8424,11 @@
     "last_checked": "2026-10-04"
   },
   "43da2f64eeca4ae80de8f41a2956fb53d52c93807afe228c12534607934de2e1": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-10-04"
   },
   "fa43a102f05ca003d4f86e7f9c55ff862f248e9197da986d18bdaf1335f06c06": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-10-04"
   }
 }
