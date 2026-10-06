@@ -6172,7 +6172,7 @@
     "last_checked": "2026-10-06"
   },
   "eb977fa7a0907e1c0013d26fe729afcf466d2330ce9783d4f67c483d623f677b": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "last_checked": "2026-10-06"
   },
   "51f14e2efe077b87a3ed552d0dd2485ebc4bbcace4750c9f6c00726a159c0420": {
@@ -8484,6 +8484,10 @@
     "last_checked": "2026-10-06"
   },
   "1ed29a50e412ed711aae9a9d507c497e5196dd2ba9ae69c70f89cfeaab13ce68": {
+    "consecutive_failures": 2,
+    "last_checked": "2026-10-06"
+  },
+  "28dc3c4d696d3ee3a604e34816a2d311dfeabf2359799fafa3dc36bb12555a7d": {
     "consecutive_failures": 1,
     "last_checked": "2026-10-06"
   }
