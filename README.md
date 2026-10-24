@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: October 24, 2026 at 05:45 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: October 24, 2026 at 10:48 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 182 |
+| 💻 [Software Engineering](#-software-engineering) | 181 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 43 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 111 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 30 |
 | 🔹 [Other](#-other) | 555 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 115 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 230 |
-| **Total** | **921** |
+| **Total** | **920** |
 
 ---
 
@@ -47,8 +47,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Huntington Bancshares** | Enterprise Payments Intern | Detroit, MI, Minnetonka and 3 more | F26 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171?utm_source=Simplify&ref=Simplify) | today |
-| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
+| **Genuine Parts Company** | U.S. Strategy Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/u-s-strategy-intern-summer-2027/505/102344761808) | today |
+| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/ibs-supply-chain-intern-summer-2027/505/102351459792) | today |
 | **Macy's** | Summer Internship - Technology | Johns Creek, GA | F26 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **ACI Worldwide** | Technology Intern | Norcross, GA | F26 | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Ernst & Young** | Vector Capitalization Intern - Multiple Teams | Houston, TX, Dallas and 3 more | F26 | [Apply](https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -412,9 +412,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | 🔥 **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin, New York City, San Francisco | fall_2027 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) | today |
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
-| **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) | today |
 | 🔥 **Electronic Arts** | Software Engineer Intern | Orlando, FL | F26 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251?utm_source=Simplify&ref=Simplify) | today |
+| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | today |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | 🔥 **Northrop Grumman** | Cyber Software Engineer Intern | San Antonio, TX | F26 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CVS Health** | Innovation & Technology Software Engineering: Platform & Applications Intern | Dallas, TX, Scottsdale and 5 more | F26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -812,12 +811,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Citi** | Technology Analyst Intern - Application Development | Jacksonville, FL | F26 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418?utm_source=Simplify&ref=Simplify) | today |
 | **GlobalFoundries** | New Product Development Test Engineer Intern | Richardson, TX | F26 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957?utm_source=Simplify&ref=Simplify) | today |
 | **GlobalFoundries** | CPU IP Design & Verification Intern - RISC-V Processor Development | Austin, TX, Santa Clara and 1 more | F26 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042?utm_source=Simplify&ref=Simplify) | today |
-| **Hermeus** | Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 | Jacksonville, FL | fall_2027 | [Apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) | today |
-| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) | today |
-| **Micron Technology** | Intern - Design Engineer, HIG HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) | today |
-| **Motorola Solutions** | Mechanical Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030) | today |
-| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
+| **Virtu Financial** | 2027 Internship - Quantitative Trading | Austin, TX, Chicago, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | today |
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | today |
+| **Genuine Parts Company** | U.S. Strategy Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/u-s-strategy-intern-summer-2027/505/102344761808) | today |
+| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/ibs-supply-chain-intern-summer-2027/505/102351459792) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Dallas, Texas | F26 | [Apply](https://www.att.jobs/job/dallas/at-and-t-technology-development-program-internship/117/100954809776) | today |
+| **The Federal Reserve System** | Policy & Analysis Intern | Dallas, TX | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766?utm_source=Simplify&ref=Simplify) | today |
 | 🔥 **Epic Games** | Tools Programmer Intern - Graphics 🔒 | Cary, NC | F26 | 🔒 Closed | today |
 | **Walmart** | Automation Product Manager Intern - Product Manager | Lancaster, TX | F26 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Assurant** | Manufactured Housing Product Analysis Intern | Miami, FL | F26 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769?utm_source=Simplify&ref=Simplify) | 1d ago |
