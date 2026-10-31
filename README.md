@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: October 31, 2026 at 12:14 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: October 31, 2026 at 04:24 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,13 +16,13 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 192 |
-| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 50 |
+| 💻 [Software Engineering](#-software-engineering) | 191 |
+| 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 49 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 124 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 31 |
-| 🔹 [Other](#-other) | 590 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 116 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 256 |
+| 🔹 [Other](#-other) | 592 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 118 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 254 |
 | **Total** | **987** |
 
 ---
@@ -52,8 +52,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Intercontinental Exchange** | Quantitative Research Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14057?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Intercontinental Exchange** | Quantitative Engineer Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14053?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Intercontinental Exchange** | Quantitative Financial Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14055?icims=1&utm_source=Simplify&ref=Simplify) | today |
-| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
+| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
 | **Path Robotics** | Machine Learning & Robotics Intern | Columbus, OH | F26 | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8924241002?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Highmark Health** | Clinical and Population Health Graduate Intern | New Mexico, Washington, Kansas and 48 more | F26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CareSource** | Military and Veterans Intern | Florida, Georgia | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Florida-WFH/XMLNAME-2027-Summer-Internship-Program---CareSource-Military-and-Veterans-Intern_R14186-1?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -75,7 +74,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **The Federal Reserve System** | REIN Data Intern | Atlanta, GA | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Huntington Bancshares** | Enterprise Payments Intern | Detroit, MI, Minnetonka and 3 more | F26 | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Genuine Parts Company** | U.S. Strategy Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/u-s-strategy-intern-summer-2027/505/102344761808) | 1w ago |
-| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/ibs-supply-chain-intern-summer-2027/505/102351459792) | 1w ago |
+| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| 🔒 | Atlanta, GA | F26 | 🔒 Closed | 1w ago |
 | **Macy's** | Summer Internship - Technology | Johns Creek, GA | F26 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **ACI Worldwide** | Technology Intern | Norcross, GA | F26 | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Ernst & Young** | Vector Capitalization Intern - Multiple Teams | Houston, TX, Dallas and 3 more | F26 | [Apply](https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify) | 1w ago |
@@ -310,6 +309,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | 🔥 **Amazon** | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle and 15 more | F26 | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
+| 🔥 **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) | today |
 | 🔥 **NVIDIA** | AI Systems Software Engineer Intern | Austin, TX | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Cloudflare** | Product Manager Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **NVIDIA** | AI Systems Software Engineering Intern – Summer 2027 | US, TX, Austin | S27 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) | 2d ago |
@@ -442,8 +443,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Intercontinental Exchange** | Software Engineer Intern - Java | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14078?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Intercontinental Exchange** | Software Engineering Intern | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14075?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Publicis Groupe** | Software Engineer Intern | Irving, TX | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/173034?icims=1&utm_source=Simplify&ref=Simplify) | today |
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
-| **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) | today |
+| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | today |
 | 🔥 **NVIDIA** | AI Systems Software Engineer Intern | Austin, TX | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CareSource** | Full Stack AI Development Intern | Remote in USA | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Clean Harbors** | Software & Field Technology Intern IS | Deer Park, TX | F26 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -649,7 +649,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Applied Materials** | Data Scientist Intern | Austin, TX | F26 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Syngenta Group** | Data Scientist Intern | Raleigh, NC | F26 | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Applied Materials** | Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) | Austin,TX | S27 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) | 3d ago |
-| **USAA** | Data Scientist InternOct. 28, 2026Plano, TX | Plano, TX | F26 | [Apply](https://www.usaajobs.com/job/plano/data-scientist-intern/1207/101009416944) | 3d ago |
+| **USAA** | Data Scientist InternOct. 28, 2026Plano, TX 🔒 | Plano, TX | F26 | 🔒 Closed | 3d ago |
 | **Highmark Health** | Applied Gen AI/Data Scientist Graduate Intern | New Mexico, Washington, Kansas and 49 more | F26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Micron Technology** | Intern - HBM Data Scientist | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127) | 4d ago |
 | **CoVar** | Machine Learning Intern | Durham, NC | F26 | [Apply](https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify) | 1w ago |
@@ -883,9 +883,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | **First Citizens BancShares** | Quantitative Modeling Intern | Raleigh, NC | F26 | [Apply](https://firstcitizens.jibeapply.com/jobs/36317?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Intercontinental Exchange** | Quantitative Research Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14057?icims=1&utm_source=Simplify&ref=Simplify) | today |
 | **Intercontinental Exchange** | Quantitative Engineer Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14053?icims=1&utm_source=Simplify&ref=Simplify) | today |
-| **Micron Technology** | Intern - Design Engineer, HIG HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) | today |
-| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
+| **Virtu Financial** | 2027 Internship - Quantitative Trading | Austin, TX, Chicago, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | today |
+| 🔥 **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) | today |
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | today |
+| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Dallas, Texas | F26 | [Apply](https://www.att.jobs/job/dallas/at-and-t-technology-development-program-internship/117/100954809776) | today |
 | 🔥 **Cloudflare** | Product Manager Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **HNTB** | GIS Intern | Tampa, FL, Tallahassee and 1 more | F26 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tampa-FL/GIS-Intern_R-32235?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Highmark Health** | Clinical and Population Health Graduate Intern | New Mexico, Washington, Kansas and 48 more | F26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -929,9 +932,9 @@ Use this repo to discover and track **tech internships** across software enginee
 | **GlobalFoundries** | New Product Development Test Engineer Intern | Richardson, TX | F26 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **GlobalFoundries** | CPU IP Design & Verification Intern - RISC-V Processor Development | Austin, TX, Santa Clara and 1 more | F26 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Genuine Parts Company** | U.S. Strategy Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/u-s-strategy-intern-summer-2027/505/102344761808) | 1w ago |
-| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/ibs-supply-chain-intern-summer-2027/505/102351459792) | 1w ago |
 | **The Federal Reserve System** | Policy & Analysis Intern | Dallas, TX | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766?utm_source=Simplify&ref=Simplify) | 1w ago |
 | 🔥 **Epic Games** | Tools Programmer Intern - Graphics 🔒 | Cary, NC | F26 | 🔒 Closed | 1w ago |
+| **Genuine Parts Company** | IBS Supply Chain Intern - Summer 2027Atlanta, GA\|Full time\| 🔒 | Atlanta, GA | F26 | 🔒 Closed | 1w ago |
 | **Walmart** | Automation Product Manager Intern - Product Manager | Lancaster, TX | F26 | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **Assurant** | Manufactured Housing Product Analysis Intern | Miami, FL | F26 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Miami-FL/Summer-2027-Intern--Manufactured-Housing-Product-Analysis-Intern_R-115769?utm_source=Simplify&ref=Simplify) | 1w ago |
 | 🔥 **Amazon** | Cloud Hardware Development Engineer Intern | Austin, TX, Cupertino and 1 more | F26 | [Apply](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027?utm_source=Simplify&ref=Simplify) | 1w ago |
