@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 01, 2026 at 08:05 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 01, 2026 at 05:04 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 191 |
+| 💻 [Software Engineering](#-software-engineering) | 192 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 49 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 124 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 31 |
-| 🔹 [Other](#-other) | 590 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 118 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 253 |
-| **Total** | **985** |
+| 🔹 [Other](#-other) | 587 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 116 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 254 |
+| **Total** | **983** |
 
 ---
 
@@ -46,7 +46,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
+| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
 | **Intercontinental Exchange** | Product Management Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14065?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Intercontinental Exchange** | Audit Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Intercontinental Exchange** | Financial Engineering Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14059?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -307,8 +308,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
-| 🔥 **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) | today |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | 🔥 **Amazon** | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle and 15 more | F26 | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **NVIDIA** | AI Systems Software Engineer Intern | Austin, TX | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -436,7 +435,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | today |
+| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
+| **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) | today |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | **RTX** | Systems Engineering Intern (Summer 2027) | US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG | S27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01880911) | 1d ago |
 | 🔥 **Amazon** | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA, Seattle and 15 more | F26 | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027?utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -869,12 +869,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
-| **Virtu Financial** | 2027 Internship - Quantitative Trading | Austin, TX, Chicago, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | today |
-| 🔥 **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) | today |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | today |
-| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Dallas, Texas | F26 | [Apply](https://www.att.jobs/job/dallas/at-and-t-technology-development-program-internship/117/100954809776) | today |
+| **Micron Technology** | Intern - Design Engineer, HIG HBM | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) | today |
+| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
 | **Intercontinental Exchange** | Integration Intern | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14071?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Intercontinental Exchange** | Product Management Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14065?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Schneider Electric** | Graduate Product Management Intern | Nashville, TN | F26 | [Apply](https://se.jibeapply.com/jobs/135310?icims=1&utm_source=Simplify&ref=Simplify) | 1d ago |
