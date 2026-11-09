@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 09, 2026 at 12:22 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 09, 2026 at 10:55 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 51 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 130 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 31 |
-| 🔹 [Other](#-other) | 626 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 123 |
-| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 268 |
-| **Total** | **1046** |
+| 🔹 [Other](#-other) | 624 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 121 |
+| 🍑 [Roles Open in GA](#-roles-open-in-ga) | 270 |
+| **Total** | **1044** |
 
 ---
 
@@ -46,7 +46,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
+| **RTX** | CFD High School Intern | US-GA-MIDLAND-MPC ~ 8801, 8987 Macon Rd ~ BLDG MPC | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576) | today |
+| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
 | **Honeywell** | Product Management Intern - MBA | Atlanta, GA | F26 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **The Federal Reserve System** | Statistics Intern | Atlanta, GA | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **T-Mobile** | Data Engineer Intern | Frisco, TX, Atlanta and 1 more | F26 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -323,11 +325,10 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
+| 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | 🔥 **Pinterest** | UX Quantitative Research Intern (USA) 🔒 | Remote, US, San Francisco, CA, US, Seattle, WA, US and 1 more | S27 | 🔒 Closed | 2d ago |
 | 🔥 **NVIDIA** | Research and Engineering Intern - Agentic Systems Intelligence | Austin, TX, Redmond and 3 more | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260?utm_source=Simplify&ref=Simplify) | 3d ago |
 | 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | 3d ago |
-| 🔥 **PayPal** | Software Engineer Intern | Austin, TX, San Jose and 7 more | F26 | [Apply](https://paypal.eightfold.ai/careers/job/274922982814?utm_source=Simplify&ref=Simplify) | 4d ago |
 | 🔥 **PayPal** | Mobile Engineer Intern | Austin, TX, San Jose and 7 more | F26 | [Apply](https://paypal.eightfold.ai/careers/job/274922982818?utm_source=Simplify&ref=Simplify) | 4d ago |
 | 🔥 **Electronic Arts** | Anticheat Engineer Intern | Austin, TX | F26 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242?utm_source=Simplify&ref=Simplify) | 5d ago |
 | 🔥 **Pinterest** | Content Enablement Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 5d ago |
@@ -458,9 +459,10 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | today |
+| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
+| **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) | today |
+| 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | **Shield AI** | Software Engineer Intern Co-op | Dallas, TX | F26 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true&utm_source=Simplify&ref=Simplify) | 3d ago |
-| 🔥 **PayPal** | Software Engineer Intern | Austin, TX, San Jose and 7 more | F26 | [Apply](https://paypal.eightfold.ai/careers/job/274922982814?utm_source=Simplify&ref=Simplify) | 4d ago |
 | 🔥 **PayPal** | Mobile Engineer Intern | Austin, TX, San Jose and 7 more | F26 | [Apply](https://paypal.eightfold.ai/careers/job/274922982818?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Blackhawk Network Holdings** | Technology Intern | Coppell, TX | F26 | [Apply](https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Intercontinental Exchange** | Software Engineer Intern | Jacksonville, FL | F26 | [Apply](https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 4d ago |
@@ -910,10 +912,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
-| **Virtu Financial** | 2027 Internship - Quantitative Trading | Austin, TX, Chicago, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | today |
-| **Leidos** | Power Delivery Engineering Intern | Atlanta, GA | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) | today |
-| **AT&T** | AT&T Technology Development Program Internship | Dallas, Texas | F26 | [Apply](https://www.att.jobs/job/dallas/at-and-t-technology-development-program-internship/117/100954809776) | today |
+| **Intuitive Surgical** | Financial Analyst Intern | Peachtree Corners, GA | F26 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000146505579) | today |
+| **AT&T** | AT&T Technology Development Program Internship | Atlanta, Georgia | F26 | [Apply](https://www.att.jobs/job/atlanta/at-and-t-technology-development-program-internship/117/100954809824) | today |
 | **Honeywell** | Product Management Intern - MBA | Atlanta, GA | F26 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **The Federal Reserve System** | Statistics Intern | Atlanta, GA | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876?utm_source=Simplify&ref=Simplify) | 2d ago |
 | **Invesco** | Data Science Intern - Real Estate | Dallas, TX | F26 | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1?utm_source=Simplify&ref=Simplify) | 2d ago |
