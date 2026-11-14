@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 14, 2026 at 12:34 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 14, 2026 at 08:21 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,12 +16,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 209 |
+| 💻 [Software Engineering](#-software-engineering) | 208 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 51 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 139 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 29 |
-| 🔹 [Other](#-other) | 645 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 111 |
+| 🔹 [Other](#-other) | 646 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 112 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 271 |
 | **Total** | **1073** |
 
@@ -326,6 +326,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
+| 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | today |
 | 🔥 **Epic Games** | Tools Programmer Intern 🔒 | Cary, NC | F26 | 🔒 Closed | 2d ago |
 | 🔥 **Pinterest** | Content Enablement Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 2d ago |
 | 🔥 **Northrop Grumman** | Optics/Photonic Engineering Intern | Apopka, FL | F26 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049?utm_source=Simplify&ref=Simplify) | 3d ago |
@@ -461,7 +463,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **CareSource** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **RTX** | Software Engineer Intern | Melbourne, FL | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) | 1d ago |
@@ -928,6 +929,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Koch Industries** | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | F26 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
+| 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | today |
 | **StackAV** | Research Intern - Autonomy | Remote in USA, Pittsburgh, PA | F26 | [Apply](https://job-boards.greenhouse.io/stackav/jobs/5287594007?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **CareSource** | Clinical Operations Business Analyst Intern | Remote in USA | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Shield AI** | Hardware Test Engineering Co-op | Dallas, TX | F26 | [Apply](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true&utm_source=Simplify&ref=Simplify) | 1d ago |
