@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 16, 2026 at 12:34 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 16, 2026 at 10:16 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,12 +16,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 212 |
+| 💻 [Software Engineering](#-software-engineering) | 211 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 51 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 139 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 30 |
-| 🔹 [Other](#-other) | 640 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 110 |
+| 🔹 [Other](#-other) | 641 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 111 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 269 |
 | **Total** | **1072** |
 
@@ -328,6 +328,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
 | 🔥 **Pinterest** | UX Quantitative Research Intern (USA) 🔒 | Remote, US, San Francisco, CA, US, Seattle, WA, US and 1 more | S27 | 🔒 Closed | 1d ago |
 | 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | 2d ago |
 | 🔥 **Epic Games** | Tools Programmer Intern 🔒 | Cary, NC | F26 | 🔒 Closed | 4d ago |
@@ -464,7 +465,6 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | today |
 | **RTX** | Software Engineering Co-op | Richardson, TX | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **USAA** | Technology InternNov. 14, 2026San Antonio, TX | San Antonio, TX | F26 | [Apply](https://www.usaajobs.com/job/san-antonio/technology-intern/1207/100411046608) | 2d ago |
@@ -937,6 +937,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Micron Technology** | Intern - Engineer, HIG HBM DTPCO | Richardson, TX | F26 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618) | today |
 | **Leidos** | Power Delivery Engineering Intern | Greenville, SC | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601) | today |
 | **Inspire Brands** | Digital Experience Performance Intern | Atlanta, GA | F26 | [Apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Samsara** | Account Development Representative Intern - Phoenix | Remote - AZ | F26 | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | today |
 | **SAS** | IoT Product Strategy Intern | Cary, NC | F26 | [Apply](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Fanatics** | Product Intern - Physical Trading Cards | Coppell, TX | F26 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Pinterest** | UX Quantitative Research Intern (USA) 🔒 | Remote, US, San Francisco, CA, US, Seattle, WA, US and 1 more | S27 | 🔒 Closed | 1d ago |
