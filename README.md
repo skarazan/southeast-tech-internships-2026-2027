@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 17, 2026 at 07:49 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 18, 2026 at 10:25 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 214 |
+| 💻 [Software Engineering](#-software-engineering) | 213 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 52 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 140 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 30 |
-| 🔹 [Other](#-other) | 649 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 112 |
+| 🔹 [Other](#-other) | 647 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 113 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 275 |
-| **Total** | **1085** |
+| **Total** | **1082** |
 
 ---
 
@@ -49,6 +49,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273) | today |
 | **Publicis Groupe** | PhD Data Science Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
 | **Publicis Groupe** | PhD Data Visualization Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Google** | People Analytics Intern | SF, Chicago, IL and 5 more | F26 | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246?utm_source=Simplify&ref=Simplify) | today |
 | **Hermeus** | Structures/Mechanical Engineering Intern - Spring/Fall 2027 | Atlanta, GA | fall_2027 | [Apply](https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761) | 1d ago |
 | **Fiserv** | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, Ohio | F26 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/XMLNAME-2027-Technology-Internship-Program---Cybersecurity--Columbus--OH-_R-10407190) | 1d ago |
 | **Genuine Parts Company** | Technology Intern 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/technology-intern-2027/505/103393184496) | 1d ago |
@@ -80,12 +81,12 @@ Use this repo to discover and track **tech internships** across software enginee
 | **LexisNexis Risk Solutions** | Product Management Intern - Insurance | Alpharetta, GA | F26 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **LexisNexis Risk Solutions** | Product Manager Intern - Government | Alpharetta, GA | F26 | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **The Federal Reserve System** | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | F26 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860?utm_source=Simplify&ref=Simplify) | 2w ago |
-| **Intercontinental Exchange** | Product Management Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14065?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Audit Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Financial Engineering Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14059?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Research Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14057?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Engineer Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14053?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Financial Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14055?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
+| **Intercontinental Exchange** | Product Management Intern 🔒 | Atlanta, GA | F26 | 🔒 Closed | 2w ago |
 | **Path Robotics** | Machine Learning & Robotics Intern | Columbus, OH | F26 | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8924241002?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Highmark Health** | Clinical and Population Health Graduate Intern | New Mexico, Washington, Kansas and 48 more | F26 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **CareSource** | Military and Veterans Intern | Florida, Georgia | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Florida-WFH/XMLNAME-2027-Summer-Internship-Program---CareSource-Military-and-Veterans-Intern_R14186-1?utm_source=Simplify&ref=Simplify) | 2w ago |
@@ -333,6 +334,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Google** | People Analytics Intern | SF, Chicago, IL and 5 more | F26 | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Pinterest** | Product Design Intern (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
+| 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | 🔥 **Anduril** | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States, Washington, District of Columbia, United States | S27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) | 1d ago |
 | 🔥 **Morgan Stanley** | Intern | Winter Park, Florida, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) | 1d ago |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
@@ -459,9 +463,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273) | today |
 | **APEX Analytix** | Product Management Intern - DevOps | Greensboro, NC | F26 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | **Genuine Parts Company** | Technology Intern 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/technology-intern-2027/505/103393184496) | 1d ago |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
 | **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | 2d ago |
@@ -743,6 +747,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **SAS** | IoT Analytics Intern | Cary, NC | F26 | [Apply](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Google** | People Analytics Intern | SF, Chicago, IL and 5 more | F26 | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246?utm_source=Simplify&ref=Simplify) | today |
 | **Nexus Cognitive Technologies** | Data Engineer Intern | Atlanta, GA | F26 | [Apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true&utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Amgen** | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote in USA | F26 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625?utm_source=Simplify&ref=Simplify) | 4d ago |
 | **Environmental Defense Fund** | Consumer Energy Analytics Intern | Remote in USA, St. Petersburg, FL | F26 | [Apply](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752?utm_source=Simplify&ref=Simplify) | 5d ago |
@@ -765,8 +770,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Molina Healthcare** | Customer Experience & Analytics Intern - Undergraduate | Remote in USA | F26 | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Hyster-Yale Materials Handling** | Business Analytics Intern | Greenville, NC | F26 | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Audit Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14069?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
-| **Intercontinental Exchange** | Data Analyst Intern | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14089?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Financial Analytics Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14055?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
+| **Intercontinental Exchange** | Data Analyst Intern 🔒 | Jacksonville, FL | F26 | 🔒 Closed | 2w ago |
 | **GM financial** | Data Engineer Intern | Arlington, TX | F26 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Axiom Space** | Enterprise Data Analyst Intern - Power BI & Data Quality | Houston, TX | F26 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Revantage Corporate Services** | Insurance Technology & AI Analytics Intern | Dallas, TX, Chicago and 1 more | F26 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539?utm_source=Simplify&ref=Simplify) | 2w ago |
@@ -929,6 +934,7 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Publicis Groupe** | PhD Data Science Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
 | **Publicis Groupe** | PhD Data Visualization Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Pinterest** | Product Design Intern (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | **Hermeus** | Structures/Mechanical Engineering Intern - Spring/Fall 2027 | Atlanta, GA | fall_2027 | [Apply](https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761) | 1d ago |
 | 🔥 **Anduril** | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States, Washington, District of Columbia, United States | S27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) | 1d ago |
 | **SAS** | Optimization Intern | Cary, NC | F26 | [Apply](https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d ago |
@@ -1034,11 +1040,11 @@ Use this repo to discover and track **tech internships** across software enginee
 | **KnowBe4** | Associate Product Manager Intern | Clearwater, FL | F26 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Fidelity Investments** | Intern, Investor Center - Sarasota, FL | Sarasota, FL | F26 | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Sarasota-FL/Intern--Investor-Center---Sarasota--FL_2135958-2) | 2w ago |
 | **Intercontinental Exchange** | Integration Intern | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14071?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
-| **Intercontinental Exchange** | Product Management Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14065?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Financial Engineering Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14059?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
-| **Intercontinental Exchange** | Agentic AI Data Science Intern | Jacksonville, FL | F26 | [Apply](https://ice.jibeapply.com/jobs/14070?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Research Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14057?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
 | **Intercontinental Exchange** | Quantitative Engineer Intern | Atlanta, GA | F26 | [Apply](https://ice.jibeapply.com/jobs/14053?icims=1&utm_source=Simplify&ref=Simplify) | 2w ago |
+| **Intercontinental Exchange** | Product Management Intern 🔒 | Atlanta, GA | F26 | 🔒 Closed | 2w ago |
+| **Intercontinental Exchange** | Agentic AI Data Science Intern 🔒 | Jacksonville, FL | F26 | 🔒 Closed | 2w ago |
 | **First Citizens BancShares** | Quantitative Modeling Intern 🔒 | Raleigh, NC | F26 | 🔒 Closed | 2w ago |
 | 🔥 **Cloudflare** | Product Manager Intern | Austin, TX | F26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790?utm_source=Simplify&ref=Simplify) | 2w ago |
 | **HNTB** | GIS Intern | Tampa, FL, Tallahassee and 1 more | F26 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tampa-FL/GIS-Intern_R-32235?utm_source=Simplify&ref=Simplify) | 2w ago |
