@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 19, 2026 at 02:19 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 19, 2026 at 03:15 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 211 |
+| 💻 [Software Engineering](#-software-engineering) | 212 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 52 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 140 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 30 |
 | 🔹 [Other](#-other) | 648 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 113 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 274 |
-| **Total** | **1081** |
+| **Total** | **1082** |
 
 ---
 
@@ -462,6 +462,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273) | 1d ago |
 | **APEX Analytix** | Product Management Intern - DevOps | Greensboro, NC | F26 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
