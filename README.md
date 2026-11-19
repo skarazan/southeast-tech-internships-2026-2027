@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 18, 2026 at 07:08 PM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 19, 2026 at 02:19 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,12 +16,12 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 213 |
+| 💻 [Software Engineering](#-software-engineering) | 211 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 52 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 140 |
-| 🔧 [Hardware Engineering](#-hardware-engineering) | 29 |
-| 🔹 [Other](#-other) | 647 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 112 |
+| 🔧 [Hardware Engineering](#-hardware-engineering) | 30 |
+| 🔹 [Other](#-other) | 648 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 113 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 274 |
 | **Total** | **1081** |
 
@@ -333,6 +333,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Optiver** | FPGA Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | S27 | [Apply](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | today |
 | 🔥 **Google** | People Analytics Intern | SF, Chicago, IL and 5 more | F26 | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Pinterest** | Product Design Intern (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
 | 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
@@ -463,14 +464,13 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273) | 1d ago |
 | **APEX Analytix** | Product Management Intern - DevOps | Greensboro, NC | F26 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | 1d ago |
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 1d ago |
 | 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
 | **Genuine Parts Company** | Technology Intern 2027Atlanta, GA\|Full time\| | Atlanta, GA | F26 | [Apply](https://jobs.genpt.com/job/atlanta/technology-intern-2027/505/103393184496) | 2d ago |
 | 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 2d ago |
 | **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | S27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | 3d ago |
 | **RTX** | Software Engineering Co-op | Richardson, TX | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404?utm_source=Simplify&ref=Simplify) | 4d ago |
-| **SAS** | Software Developer Intern - Go/Golang Experience | Cary, NC | F26 | [Apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 5d ago |
 | **USAA** | Technology InternNov. 14, 2026San Antonio, TX 🔒 | San Antonio, TX | F26 | 🔒 Closed | 5d ago |
+| **SAS** | Software Developer Intern - Go/Golang Experience 🔒 | Cary, NC | F26 | 🔒 Closed | 5d ago |
 | **CareSource** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136?utm_source=Simplify&ref=Simplify) | 6d ago |
 | **RTX** | Software Engineer Intern | Melbourne, FL | F26 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543?utm_source=Simplify&ref=Simplify) | 6d ago |
 | **Vertiv** | Software Engineer Intern | Huntsville, AL | F26 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | 1w ago |
@@ -891,6 +891,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Optiver** | FPGA Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | S27 | [Apply](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | today |
 | **Southern States, LLC** | Electrical Engineer Intern | Hampton, GA | F26 | [Apply](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1?utm_source=Simplify&ref=Simplify) | 3d ago |
 | **CesiumAstro** | Electrical Engineering Intern - Hardware | Melbourne, FL | F26 | [Apply](https://jobs.lever.co/CesiumAstro/8f54cb68-5803-4fbe-93a9-da5873a67435/apply?utm_source=Simplify&ref=Simplify) | 1w ago |
 | **CesiumAstro** | Electrical Engineering Intern - FPGA | Melbourne, FL | F26 | [Apply](https://jobs.lever.co/CesiumAstro/fc86b32c-9320-4da0-80ae-18f02bc37316/apply?utm_source=Simplify&ref=Simplify) | 1w ago |
@@ -928,6 +929,8 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Lucid** | Product Management Intern | Raleigh, NC | F26 | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004?utm_source=Simplify&ref=Simplify) | today |
+| **Andersen** | PhD Summer Intern | Remote in USA | F26 | [Apply](https://careers.andersen.com/jobs/8348?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
 | **Publicis Groupe** | PhD Data Science Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Publicis Groupe** | PhD Data Visualization Intern | Boston, MA, Chicago and 7 more | F26 | [Apply](https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Bosch** | Intern - Logistics (local to Lincolnton NC area) | Lincolnton, NC | F26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162379832) | 1d ago |
@@ -1294,7 +1297,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🔥 **NVIDIA** | PhD Research Intern - Circuits | Santa Clara, CA, Durham and 1 more | F26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **Norfolk Southern** | Electrical Apprentice Signal Trainee (Memphis, TN) | LocationMemphis, TN, US and 1 more | F26 | [Apply](https://jobs.nscorp.com/job/Memphis-Electrical-Apprentice-Signal-Trainee-%28Memphis%2C-TN%29-TN-38114/1416568200/) | 2mo ago |
 | 🔥 **The Walt Disney Company** | Disney Live Entertainment Costume Support Intern, Spring 2027 | Orlando, FL, USA | Sp27 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Disney-Live-Entertainment-Costume-Support-Intern--Spring-2027_10160070-1) | 2mo ago |
-| **Lennox International** | IoT Intern | Richardson, TX | F26 | [Apply](https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **GM financial** | Software Development Engineer Intern | Arlington, TX | F26 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **Watts Water** | Product Specialist Intern | Fort Worth, TX | F26 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **Watts Water** | Product Specialist Intern - Summer 2027 | Fort Worth, TX | S27 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern--Summer-2027_10017585?utm_source=Simplify&ref=Simplify) | 2mo ago |
@@ -1305,6 +1307,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Sony** | Research Intern on Generative and Protective AI for Content Creation | Remote - Texas | F26 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 2mo ago |
 | **Johnson & Johnson** | GTO Engineering Coop | San Angelo, Texas, United States of America | F26 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Angelo-Texas-United-States-of-America/GTO-Engineering-Coop_R-099077) | 2mo ago |
 | **Leidos** | Relay Settings Intern | 6314 Remote, Teleworker US | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Relay-Settings-Intern_R-00192628) | 2mo ago |
+| **Lennox International** | IoT Intern 🔒 | Richardson, TX | F26 | 🔒 Closed | 2mo ago |
 | **Cox** | Cox Conserves: Water, Nature & Energy Intern - Summer 2027 | Atlanta GA | S27 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Water--Nature---Energy-Intern---Summer-2027_R202682328) | 2mo ago |
 | **Collier Aerospace** | AI Feature Development Intern - NCSG | Raleigh, NC | F26 | [Apply](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **Nasdaq** | Product Owner Intern | Atlanta, GA | F26 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976?utm_source=Simplify&ref=Simplify) | 2mo ago |
