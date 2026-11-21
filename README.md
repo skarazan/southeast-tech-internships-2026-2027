@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 21, 2026 at 09:41 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 21, 2026 at 06:00 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 214 |
+| 💻 [Software Engineering](#-software-engineering) | 213 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 53 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 144 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 31 |
-| 🔹 [Other](#-other) | 655 |
+| 🔹 [Other](#-other) | 654 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 114 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 286 |
-| **Total** | **1097** |
+| **Total** | **1095** |
 
 ---
 
@@ -471,7 +471,6 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **T-Mobile** | Summer 2027 Software Engineering AI Internship | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067) | today |
 | **Acuity Insurance** | Software Engineer Intern | Remote in USA, Sheboygan, WI | F26 | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=Simplify&ref=Simplify) | today |
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **Symbotic** | Software Engineer Intern - Front-End | Austin, TX | F26 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **APEX Analytix** | Product Management Intern - DevOps | Greensboro, NC | F26 | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | 3d ago |
 | 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 3d ago |
@@ -1435,7 +1434,6 @@ Use this repo to discover and track **tech internships** across software enginee
 | **Cox** | Infrastructure Automation Intern - Summer 2027 | Atlanta GA | S27 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338) | 2mo ago |
 | 🔥 **Cisco** | Software Consulting Engineer I (Intern) United States | USA-RESEARCH TRIANGLE PARK | F26 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | 2mo ago |
 | **Equifax** | Security Intern | USA - Georgia - Alpharetta - 30005 | F26 | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Security-Intern_J00178958) | 2mo ago |
-| **RF-SMART** | Software Support Engineer Intern - Netsuite | Jacksonville, FL | F26 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **ABB** | Application Engineering Intern - Summer 2027 | Lombard, IL, Alpharetta and 1 more | S27 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **Tokyo Electron** | Sales Business Analyst Intern | Austin, TX | F26 | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519?utm_source=Simplify&ref=Simplify) | 2mo ago |
 | **The Federal Reserve System** | Payments Forum Intern - Spring/Summer 2027 | Remote in USA, Atlanta, GA | S27 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1?utm_source=Simplify&ref=Simplify) | 2mo ago |
@@ -1446,6 +1444,7 @@ Use this repo to discover and track **tech internships** across software enginee
 | **RTX** | Intern: Quality Metrology Lab (Summer 2027) | US-TX-AUSTIN-1909 ~ 1909 Kramer Ln Braker E ~ BLDG E-300 | S27 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876) | 2mo ago |
 | **Leidos** | Aerospace M&S Engineer Intern | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760) | 2mo ago |
 | **Leidos** | Mechanical Design Engineer Summer Intern | Huntsville, AL | F26 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782) | 2mo ago |
+| **RF-SMART** | Software Support Engineer Intern - Netsuite 🔒 | Jacksonville, FL | F26 | 🔒 Closed | 2mo ago |
 | **Applied Materials** | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | F26 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) | 2mo ago |
 | **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | S27 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | 2mo ago |
 | **Cox** | Product Management Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | S27 | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174) | 2mo ago |
