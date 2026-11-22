@@ -11544,23 +11544,23 @@
     "last_checked": "2026-11-21"
   },
   "20cb6ea8f0bc434a9c816930128d69df952aa38a8b734cd44117cb8304a887fb": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-11-22"
   },
   "62267703b33233cbe2e6ff6d14277dfac882214fd02ffd9819e93c92e5807666": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-11-22"
   },
   "043893a4c1d7e51ee95101c135908cc8bdd8abbac9f878080ec3532543a3b42a": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-11-22"
   },
   "9e2205a298d4fb193aef608619c2863cd070e313bdca775e7b81d152b91c7768": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_checked": "2026-11-22"
   },
   "e31ac5d8a339b85fd9030a9b46394f8b02ea656ea25f4424c23e08c33b477153": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "last_checked": "2026-11-22"
   }
 }
