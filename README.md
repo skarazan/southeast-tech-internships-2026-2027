@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 22, 2026 at 12:45 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 22, 2026 at 09:22 AM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -20,10 +20,10 @@ Use this repo to discover and track **tech internships** across software enginee
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 53 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 144 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 31 |
-| 🔹 [Other](#-other) | 653 |
-| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 113 |
+| 🔹 [Other](#-other) | 654 |
+| 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 115 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 285 |
-| **Total** | **1095** |
+| **Total** | **1096** |
 
 ---
 
@@ -339,6 +339,9 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | Sp27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) | today |
+| 🔥 **AMD** | BIOS Engineering Co-op | Austin, TX | F26 | [Apply](https://careers.amd.com/jobs/90475?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | today |
 | 🔥 **Home Depot** | Product & Engineering Co-Op | STORE SUPPORT CENTER, ATLANTA - 9090 | F26 | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199630) | 2d ago |
 | 🔥 **Pinterest** | Content Enablement Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 2d ago |
 | 🔥 **Optiver** | FPGA Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | S27 | [Apply](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | 3d ago |
@@ -465,7 +468,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
-| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
+| 🔥 **AMD** | BIOS Engineering Co-op | Austin, TX | F26 | [Apply](https://careers.amd.com/jobs/90475?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | today |
 | **T-Mobile** | Summer 2027 Software Engineering AI Internship | Atlanta, Georgia | S27 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067) | 1d ago |
 | **Acuity Insurance** | Software Engineer Intern | Remote in USA, Sheboygan, WI | F26 | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Symbotic** | Software Engineer Intern - Front-End | Austin, TX | F26 | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1?utm_source=Simplify&ref=Simplify) | 2d ago |
@@ -941,6 +944,8 @@ Use this repo to discover and track **tech internships** across software enginee
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
 | **Advance Auto Parts** | Data Science Intern | Raleigh, NC | F26 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=Simplify&ref=Simplify) | today |
+| 🔥 **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | Sp27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) | today |
+| 🔥 **Pinterest** | Strategy & Operations Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, CA, US | S27 | 🔒 Closed | today |
 | **AFL** | Web Design/Development Intern | Duncan, SC | F26 | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **SAS** | Quantum Research & Development Intern | Cary, NC | F26 | [Apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Method** | Product Management Intern | Remote in USA, Santa Clara, CA and 4 more | F26 | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003?utm_source=Simplify&ref=Simplify) | 1d ago |
