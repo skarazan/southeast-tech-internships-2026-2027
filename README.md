@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 25, 2026 at 02:38 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 25, 2026 at 04:23 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 218 |
+| 💻 [Software Engineering](#-software-engineering) | 219 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 53 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 145 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 32 |
 | 🔹 [Other](#-other) | 663 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 116 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 285 |
-| **Total** | **1111** |
+| **Total** | **1112** |
 
 ---
 
@@ -338,6 +338,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | 🔥 **Morgan Stanley** | Intern | Winter Park, Florida, United States of America | F26 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) | 1d ago |
 | 🔥 **AMD** | Masters AI Rack/Cluster Design Engineering Co-op | Austin, TX | F26 | [Apply](https://careers.amd.com/jobs/89564?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Pinterest** | UX Quantitative Research Intern (USA) 🔒 | Remote, US, San Francisco, CA, US, Seattle, WA, US and 1 more | S27 | 🔒 Closed | 2d ago |
@@ -470,6 +471,8 @@ Use this repo to discover and track **tech internships** across software enginee
 |---------|------|----------|--------|-------|--------|
 | **Hermeus** | Software Engineering Intern (Command & Control) - Summer 2027 | Atlanta, GA | S27 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) | today |
 | **Bandwidth** | Software Engineer Intern | Raleigh, NC | F26 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430?utm_source=Simplify&ref=Simplify) | today |
+| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
+| 🔥 **Pinterest** | Solutions Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | today |
 | **Shield AI** | Software Engineering Intern | Dallas, TX | F26 | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Lifeway** | Software Engineer Intern - Full Stack - Back-End | Remote in USA | F26 | [Apply](https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **RF-SMART** | Software Developer Intern | Highlands Ranch, CO, Jacksonville and 1 more | F26 | [Apply](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008?utm_source=Simplify&ref=Simplify) | 1d ago |
