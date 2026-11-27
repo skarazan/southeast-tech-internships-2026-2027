@@ -1,6 +1,6 @@
 # Atlanta Tech Internships 🚀
 
-> 🤖 **Auto-updated every 6 hours** | Last updated: November 27, 2026 at 02:23 AM EST
+> 🤖 **Auto-updated every 6 hours** | Last updated: November 27, 2026 at 03:56 PM EST
 >
 > Catered to Georgia / Southeast ⭐ Leave a star on the repo if you enjoy this project :)
 >
@@ -16,14 +16,14 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Category | Open Roles |
 |----------|-----------|
-| 💻 [Software Engineering](#-software-engineering) | 219 |
+| 💻 [Software Engineering](#-software-engineering) | 220 |
 | 🤖 [ML / AI / Data Science](#-ml--ai--data-science) | 53 |
 | 📊 [Data Science & Analytics](#-data-science--analytics) | 146 |
 | 🔧 [Hardware Engineering](#-hardware-engineering) | 32 |
-| 🔹 [Other](#-other) | 663 |
+| 🔹 [Other](#-other) | 664 |
 | 🔥 [Big Tech in the Southeast](#-big-tech-in-the-southeast) | 115 |
 | 🍑 [Roles Open in GA](#-roles-open-in-ga) | 284 |
-| **Total** | **1113** |
+| **Total** | **1115** |
 
 ---
 
@@ -467,6 +467,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **Virtu Financial** | 2027 Internship - Software Engineer | Austin, TX, New York | F26 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | today |
 | **OpenSesame** | Software Engineer Intern | Remote in USA | F26 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **Staples** | Full Stack Software Engineer Intern | Austin, TX | F26 | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify) | 1d ago |
 | 🔥 **Pinterest** | Software Engineer Intern 2027 (USA) 🔒 | San Francisco, CA, US, Remote, US | S27 | 🔒 Closed | 1d ago |
@@ -949,6 +950,7 @@ Use this repo to discover and track **tech internships** across software enginee
 
 | Company | Role | Location | Season | Apply | Posted |
 |---------|------|----------|--------|-------|--------|
+| **ASML** | Internship - Tool Repair Center | Austin, TX, USA | F26 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---Tool-Repair-Center_J-00358466) | today |
 | **OpenSesame** | Product Intern | Remote in USA | F26 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418204?utm_source=Simplify&ref=Simplify) | 1d ago |
 | **SambaNova Systems** | DFT Engineer Intern | Austin, TX, San Jose and 1 more | F26 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004&utm_source=Simplify&ref=Simplify) | 1d ago |
 | **SambaNova Systems** | Physical Design Engineer Intern | Austin, TX, San Jose and 1 more | F26 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify) | 1d ago |
